@@ -1,0 +1,9069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT from="12-angry-men.txt">
+<Participants>
+<participant id="Foreman" name="Foreman" role="Adult" language="eng"/>
+<participant id="Juror 1" name="Juror 1" role="Adult" language="eng"/>
+<participant id="Juror 2" name="Juror 2" role="Adult" language="eng"/>
+<participant id="Juror 3" name="Juror 3" role="Adult" language="eng"/>
+<participant id="Juror 4" name="Juror 4" role="Adult" language="eng"/>
+<participant id="Juror 5" name="Juror 5" role="Adult" language="eng"/>
+<participant id="Juror 6" name="Juror 6" role="Adult" language="eng"/>
+<participant id="Juror 7" name="Juror 7" role="Adult" language="eng"/>
+<participant id="Juror 8" name="Juror 8" role="Adult" language="eng"/>
+<participant id="Juror 9" name="Juror 9" role="Adult" language="eng"/>
+<participant id="Juror 10" name="Juror 10" role="Adult" language="eng"/>
+<participant id="Juror 11" name="Juror 11" role="Adult" language="eng"/>
+<participant id="Juror 12" name="Juror 12" role="Adult" language="eng"/>
+</Participants>
+
+<u who="Juror 7" uID="#7">
+<w>So</w>
+<w>what</w>
+<w>do</w>
+<w>we</w>
+<w>do</w>
+<w>now</w>
+<media start="2.3770" end="4.2110" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Well</w>
+<w>I</w>
+<w>guess</w>
+<w>we</w>
+<w>talk</w>
+<media start="4.2960" end="5.6290" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Boy</w>
+<w>oh</w>
+<w>boy</w>
+<media start="5.7140" end="7.5480" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>You</w>
+<w>really</w>
+<w>think</w>
+<w>he's</w>
+<w>innocent</w>
+<media start="11.0110" end="12.5530" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>don't</w>
+<w>know</w>
+<media start="12.6370" end="15.5140" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>I</w>
+<w>mean</w>
+<w>you</w>
+<w>sat</w>
+<w>in</w>
+<w>court</w>
+<w>with</w>
+<w>the</w>
+<w>rest</w>
+<w>of</w>
+<w>us</w>
+<w>You</w>
+<w>heard</w>
+<w>what</w>
+<w>we</w>
+<w>did</w>
+<w>The</w>
+<w>kid's</w>
+<w>a</w>
+<w>dangerous</w>
+<w>killer</w>
+<w>You</w>
+<w>could</w>
+<w>see</w>
+<w>it</w>
+<media start="17.8090" end="19.4350" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>He's</w>
+<w>years</w>
+<w>old</w>
+<media start="19.5190" end="21.6040" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Well</w>
+<w>that's</w>
+<w>old</w>
+<w>enough</w>
+<w>Ηe</w>
+<w>He</w>
+<w>stabbed</w>
+<w>his</w>
+<w>own</w>
+<w>father</w>
+<w>four</w>
+<w>inches</w>
+<w>into</w>
+<w>the</w>
+<w>chest</w>
+<w>They</w>
+<w>proved</w>
+<w>it</w>
+<w>a</w>
+<w>dozen</w>
+<w>different</w>
+<w>ways</w>
+<w>in</w>
+<w>court</w>
+<w>Would</w>
+<w>you</w>
+<w>like</w>
+<w>me</w>
+<w>to</w>
+<w>list</w>
+<w>them</w>
+<w>for</w>
+<w>you</w>
+<media start="29.4040" end="30.6960" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>No</w>
+<media start="30.7810" end="32.8650" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Then</w>
+<w>what</w>
+<w>do</w>
+<w>you</w>
+<w>want</w>
+<media start="32.9490" end="35.8680" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>just</w>
+<w>want</w>
+<w>to</w>
+<w>talk</w>
+<media start="35.9520" end="37.2860" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>What's</w>
+<w>there</w>
+<w>to</w>
+<w>talk</w>
+<w>about</w>
+<w>Eleven</w>
+<w>men</w>
+<w>in</w>
+<w>here</w>
+<w>think</w>
+<w>he's</w>
+<w>guilty</w>
+<w>No</w>
+<w>one</w>
+<w>had</w>
+<w>to</w>
+<w>think</w>
+<w>about</w>
+<w>it</w>
+<w>twice</w>
+<w>except</w>
+<w>you</w>
+<media start="39.7060" end="42.9170" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>I</w>
+<w>want</w>
+<w>to</w>
+<w>ask</w>
+<w>you</w>
+<w>something</w>
+<w>Do</w>
+<w>you</w>
+<w>believe</w>
+<w>his</w>
+<w>story</w>
+<media start="43.0010" end="45.7110" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>don't</w>
+<w>know</w>
+<w>whether</w>
+<w>I</w>
+<w>believe</w>
+<w>it</w>
+<w>or</w>
+<w>not</w>
+<w>Maybe</w>
+<w>I</w>
+<w>don't</w>
+<media start="45.7960" end="47.3800" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>So</w>
+<w>how</w>
+<w>come</w>
+<w>you</w>
+<w>vote</w>
+<w>not</w>
+<w>guilty</w>
+<media start="47.4640" end="49.3820" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Well</w>
+<w>there</w>
+<w>were</w>
+<w>votes</w>
+<w>for</w>
+<w>guilty</w>
+<w>It's</w>
+<w>not</w>
+<w>easy</w>
+<w>to</w>
+<w>raise</w>
+<w>my</w>
+<w>hand</w>
+<w>and</w>
+<w>send</w>
+<w>a</w>
+<w>boy</w>
+<w>off</w>
+<w>to</w>
+<w>die</w>
+<w>without</w>
+<w>talking</w>
+<w>about</w>
+<w>it</w>
+<w>first</w>
+<media start="54.4710" end="56.8890" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Well</w>
+<w>now</w>
+<w>who</w>
+<w>says</w>
+<w>it's</w>
+<w>easy</w>
+<w>What</w>
+<w>just</w>
+<w>because</w>
+<w>I</w>
+<w>voted</w>
+<w>fast</w>
+<w>I</w>
+<w>honestly</w>
+<w>think</w>
+<w>the</w>
+<w>guy's</w>
+<w>guilty</w>
+<w>You</w>
+<w>couldn't</w>
+<w>change</w>
+<w>my</w>
+<w>mind</w>
+<w>if</w>
+<w>you</w>
+<w>talked</w>
+<w>for</w>
+<w>a</w>
+<w>hundred</w>
+<w>years</w>
+<media start="65.8160" end="67.8170" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I'm</w>
+<w>not</w>
+<w>trying</w>
+<w>to</w>
+<w>change</w>
+<w>your</w>
+<w>mind</w>
+<w>It's</w>
+<w>just</w>
+<w>that</w>
+<w>We're</w>
+<w>talking</w>
+<w>about</w>
+<w>somebody's</w>
+<w>life</w>
+<w>here</w>
+<w>We</w>
+<w>can't</w>
+<w>decide</w>
+<w>it</w>
+<w>in</w>
+<w>five</w>
+<w>minutes</w>
+<w>Supposing</w>
+<w>we're</w>
+<w>wrong</w>
+<media start="72.9060" end="74.3230" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Supposing</w>
+<w>we're</w>
+<w>wrong</w>
+<w>Supposing</w>
+<w>this</w>
+<w>whole</w>
+<w>building</w>
+<w>should</w>
+<w>fall</w>
+<w>down</w>
+<w>on</w>
+<w>my</w>
+<w>head</w>
+<w>You</w>
+<w>can</w>
+<w>suppose</w>
+<w>anything</w>
+<media start="78.4940" end="78.9350" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>That's</w>
+<w>right</w>
+<media start="79.3290" end="81.0800" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Look</w>
+<w>what's</w>
+<w>the</w>
+<w>difference</w>
+<w>how</w>
+<w>long</w>
+<w>it</w>
+<w>takes</w>
+<w>Suppose</w>
+<w>we</w>
+<w>do</w>
+<w>it</w>
+<w>in</w>
+<w>five</w>
+<w>minutes</w>
+<w>So</w>
+<w>what</w>
+<media start="83.8340" end="85.9600" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Let's</w>
+<w>take</w>
+<w>an</w>
+<w>hour</w>
+<w>The</w>
+<w>ball</w>
+<w>game</w>
+<w>doesn't</w>
+<w>start</w>
+<w>till</w>
+<media start="94.0100" end="95.8450" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Who's</w>
+<w>got</w>
+<w>something</w>
+<w>to</w>
+<w>say</w>
+<media start="95.9290" end="97.3460" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>I'm</w>
+<w>willing</w>
+<w>to</w>
+<w>sit</w>
+<w>for</w>
+<w>an</w>
+<w>hour</w>
+<media start="97.4310" end="100.1410" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Great</w>
+<w>I</w>
+<w>heard</w>
+<w>a</w>
+<w>pretty</w>
+<w>good</w>
+<w>story</w>
+<w>last</w>
+<w>night</w>
+<media start="100.2250" end="102.3090" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>That's</w>
+<w>not</w>
+<w>why</w>
+<w>we're</w>
+<w>sitting</w>
+<w>here</w>
+<media start="103.0190" end="106.5640" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>All</w>
+<w>right</w>
+<w>then</w>
+<w>you</w>
+<w>tell</w>
+<w>me</w>
+<w>What</w>
+<w>are</w>
+<w>we</w>
+<w>sitting</w>
+<w>here</w>
+<w>for</w>
+<media start="107.8160" end="109.6500" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>don't</w>
+<w>know</w>
+<w>Maybe</w>
+<w>no</w>
+<w>reason</w>
+<w>Look</w>
+<w>this</w>
+<w>kid's</w>
+<w>been</w>
+<w>kicked</w>
+<w>around</w>
+<w>all</w>
+<w>of</w>
+<w>his</w>
+<w>life</w>
+<w>you</w>
+<w>know</w>
+<w>born</w>
+<w>in</w>
+<w>a</w>
+<w>slum</w>
+<w>mother</w>
+<w>dead</w>
+<w>since</w>
+<w>he</w>
+<w>was</w>
+<w>nine</w>
+<w>He</w>
+<w>lived</w>
+<w>for</w>
+<w>a</w>
+<w>year</w>
+<w>and</w>
+<w>a</w>
+<w>half</w>
+<w>in</w>
+<w>an</w>
+<w>orphanage</w>
+<w>when</w>
+<w>his</w>
+<w>his</w>
+<w>father</w>
+<w>was</w>
+<w>serving</w>
+<w>a</w>
+<w>jail</w>
+<w>term</w>
+<w>for</w>
+<w>forgery</w>
+<w>It's</w>
+<w>not</w>
+<w>a</w>
+<w>very</w>
+<w>happy</w>
+<w>beginning</w>
+<w>He's</w>
+<w>a</w>
+<w>a</w>
+<w>wild</w>
+<w>angry</w>
+<w>kid</w>
+<w>That's</w>
+<w>all</w>
+<w>he's</w>
+<w>ever</w>
+<w>been</w>
+<w>And</w>
+<w>you</w>
+<w>know</w>
+<w>why</w>
+<w>'Cause</w>
+<w>he's</w>
+<w>been</w>
+<w>hit</w>
+<w>on</w>
+<w>the</w>
+<w>head</w>
+<w>by</w>
+<w>somebody</w>
+<w>once</w>
+<w>a</w>
+<w>day</w>
+<w>every</w>
+<w>day</w>
+<w>He's</w>
+<w>had</w>
+<w>a</w>
+<w>He's</w>
+<w>had</w>
+<w>a</w>
+<w>pretty</w>
+<w>miserable</w>
+<w>years</w>
+<w>I</w>
+<w>I</w>
+<w>just</w>
+<w>think</w>
+<w>we</w>
+<w>owe</w>
+<w>him</w>
+<w>a</w>
+<w>few</w>
+<w>words</w>
+<w>That's</w>
+<w>all</w>
+<media start="139.0550" end="142.6000" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>I</w>
+<w>don't</w>
+<w>mind</w>
+<w>telling</w>
+<w>you</w>
+<w>this</w>
+<w>mister</w>
+<w>We</w>
+<w>don't</w>
+<w>owe</w>
+<w>him</w>
+<w>a</w>
+<w>thing</w>
+<w>He</w>
+<w>got</w>
+<w>a</w>
+<w>fair</w>
+<w>trial</w>
+<w>didn't</w>
+<w>he</w>
+<w>What</w>
+<w>do</w>
+<w>you</w>
+<w>think</w>
+<w>that</w>
+<w>trial</w>
+<w>cost</w>
+<w>He's</w>
+<w>lucky</w>
+<w>he</w>
+<w>got</w>
+<w>it</w>
+<w>You</w>
+<w>know</w>
+<w>what</w>
+<w>I</w>
+<w>mean</w>
+<media start="145.8540" end="148.9390" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>You</w>
+<w>know</w>
+<w>it</w>
+<media start="149.0240" end="151.3580" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Now</w>
+<w>look</w>
+<w>we're</w>
+<w>all</w>
+<w>grown</w>
+<w>ups</w>
+<w>in</w>
+<w>here</w>
+<w>We</w>
+<w>heard</w>
+<w>the</w>
+<w>facts</w>
+<w>didn't</w>
+<w>we</w>
+<w>You're</w>
+<w>not</w>
+<w>gonna</w>
+<w>tell</w>
+<w>me</w>
+<w>that</w>
+<w>we're</w>
+<w>supposed</w>
+<w>to</w>
+<w>believe</w>
+<w>this</w>
+<w>kid</w>
+<w>knowing</w>
+<w>what</w>
+<w>he</w>
+<w>is</w>
+<w>Listen</w>
+<w>I've</w>
+<w>lived</w>
+<w>among</w>
+<w>them</w>
+<w>all</w>
+<w>my</w>
+<w>life</w>
+<w>You</w>
+<w>can't</w>
+<w>believe</w>
+<w>a</w>
+<w>word</w>
+<w>they</w>
+<w>say</w>
+<w>You</w>
+<w>know</w>
+<w>that</w>
+<w>I</w>
+<w>mean</w>
+<w>they're</w>
+<w>born</w>
+<w>liars</w>
+<media start="165.0810" end="168.4170" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>Only</w>
+<w>an</w>
+<w>ignorant</w>
+<w>man</w>
+<w>can</w>
+<w>believe</w>
+<w>that</w>
+<w>Do</w>
+<w>you</w>
+<w>think</w>
+<w>you</w>
+<w>were</w>
+<w>born</w>
+<w>with</w>
+<w>a</w>
+<w>monopoly</w>
+<w>on</w>
+<w>the</w>
+<w>truth</w>
+<w>I</w>
+<w>think</w>
+<w>certain</w>
+<w>things</w>
+<w>should</w>
+<w>be</w>
+<w>pointed</w>
+<w>out</w>
+<w>to</w>
+<w>this</w>
+<w>man</w>
+<media start="174.0900" end="176.1750" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Come</w>
+<w>on</w>
+<w>This</w>
+<w>isn't</w>
+<w>Sunday</w>
+<w>We</w>
+<w>don't</w>
+<w>need</w>
+<w>a</w>
+<w>sermon</w>
+<media start="176.2590" end="178.5110" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Come</w>
+<w>on</w>
+<w>We</w>
+<w>have</w>
+<w>a</w>
+<w>job</w>
+<w>to</w>
+<w>do</w>
+<w>Now</w>
+<w>let's</w>
+<w>do</w>
+<w>it</w>
+<media start="179.5540" end="182.5980" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Rice</w>
+<w>Pops</w>
+<w>It's</w>
+<w>a</w>
+<w>product</w>
+<w>I</w>
+<w>work</w>
+<w>on</w>
+<w>at</w>
+<w>the</w>
+<w>agency</w>
+<w>The</w>
+<w>breakfast</w>
+<w>with</w>
+<w>the</w>
+<w>built</w>
+<w>in</w>
+<w>bounce</w>
+<w>Oh</w>
+<w>I'm</w>
+<w>sorry</w>
+<media start="196.2380" end="197.9470" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>There's</w>
+<w>no</w>
+<w>point</w>
+<w>staying</w>
+<w>here</w>
+<w>forever</w>
+<media start="214.2970" end="218.7170" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>that</w>
+<w>it's</w>
+<w>up</w>
+<w>to</w>
+<w>the</w>
+<w>group</w>
+<w>of</w>
+<w>us</w>
+<w>to</w>
+<w>convince</w>
+<w>this</w>
+<w>gentleman</w>
+<w>that</w>
+<w>he's</w>
+<w>wrong</w>
+<w>and</w>
+<w>we're</w>
+<w>right</w>
+<w>Now</w>
+<w>maybe</w>
+<w>if</w>
+<w>we</w>
+<w>each</w>
+<w>took</w>
+<w>a</w>
+<w>couple</w>
+<w>of</w>
+<w>minutes</w>
+<w>just</w>
+<w>to</w>
+<w>Well</w>
+<w>it</w>
+<w>was</w>
+<w>just</w>
+<w>a</w>
+<w>quick</w>
+<w>idea</w>
+<media start="224.2660" end="225.7240" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>No</w>
+<w>no</w>
+<w>no</w>
+<w>That's</w>
+<w>a</w>
+<w>good</w>
+<w>one</w>
+<w>Uh</w>
+<w>suppose</w>
+<w>we</w>
+<w>go</w>
+<w>once</w>
+<w>around</w>
+<w>the</w>
+<w>table</w>
+<w>I</w>
+<w>guess</w>
+<w>you're</w>
+<w>first</w>
+<media start="231.9400" end="233.2740" unit="s"/>
+</u>
+
+<u who="Juror 2" uID="#2">
+<w>Well</w>
+<w>uh</w>
+<w>Well</w>
+<w>it</w>
+<w>is</w>
+<w>hard</w>
+<w>to</w>
+<w>put</w>
+<w>into</w>
+<w>words</w>
+<w>I</w>
+<w>just</w>
+<w>think</w>
+<w>he's</w>
+<w>guilty</w>
+<w>I</w>
+<w>thought</w>
+<w>it</w>
+<w>was</w>
+<w>obvious</w>
+<w>from</w>
+<w>the</w>
+<w>word</w>
+<w>go</w>
+<w>I</w>
+<w>mean</w>
+<w>nobody</w>
+<w>proved</w>
+<w>otherwise</w>
+<media start="244.5360" end="246.0780" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Nobody</w>
+<w>has</w>
+<w>to</w>
+<w>prove</w>
+<w>otherwise</w>
+<w>The</w>
+<w>burden</w>
+<w>of</w>
+<w>proof's</w>
+<w>on</w>
+<w>the</w>
+<w>prosecution</w>
+<w>The</w>
+<w>defendant</w>
+<w>doesn't</w>
+<w>even</w>
+<w>have</w>
+<w>to</w>
+<w>open</w>
+<w>his</w>
+<w>mouth</w>
+<w>That's</w>
+<w>in</w>
+<w>the</w>
+<w>Constitution</w>
+<media start="251.0420" end="253.0420" unit="s"/>
+</u>
+
+<u who="Juror 2" uID="#2">
+<w>Oh</w>
+<w>well</w>
+<w>sure</w>
+<w>I</w>
+<w>know</w>
+<w>that</w>
+<w>Uh</w>
+<w>what</w>
+<w>I</w>
+<w>meant</w>
+<w>was</w>
+<w>is</w>
+<w>Well</w>
+<w>I</w>
+<w>just</w>
+<w>think</w>
+<w>he's</w>
+<w>guilty</w>
+<w>I</w>
+<w>mean</w>
+<w>somebody</w>
+<w>saw</w>
+<w>him</w>
+<w>do</w>
+<w>it</w>
+<media start="261.8860" end="266.9320" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Okay</w>
+<w>Uh</w>
+<w>here's</w>
+<w>what</w>
+<w>I</w>
+<w>think</w>
+<w>and</w>
+<w>I</w>
+<w>have</w>
+<w>no</w>
+<w>personal</w>
+<w>feelings</w>
+<w>about</w>
+<w>this</w>
+<w>I</w>
+<w>just</w>
+<w>want</w>
+<w>to</w>
+<w>talk</w>
+<w>about</w>
+<w>facts</w>
+<w>Number</w>
+<w>one</w>
+<w>The</w>
+<w>old</w>
+<w>man</w>
+<w>lived</w>
+<w>downstairs</w>
+<w>under</w>
+<w>the</w>
+<w>room</w>
+<w>where</w>
+<w>the</w>
+<w>killing</w>
+<w>took</w>
+<w>place</w>
+<w>At</w>
+<w>minutes</w>
+<w>after</w>
+<w>on</w>
+<w>the</w>
+<w>night</w>
+<w>of</w>
+<w>the</w>
+<w>killing</w>
+<w>he</w>
+<w>heard</w>
+<w>loud</w>
+<w>noises</w>
+<w>said</w>
+<w>it</w>
+<w>sounded</w>
+<w>like</w>
+<w>a</w>
+<w>fight</w>
+<w>And</w>
+<w>he</w>
+<w>heard</w>
+<w>the</w>
+<w>kid</w>
+<w>yell</w>
+<w>out</w>
+<w>I'm</w>
+<w>gonna</w>
+<w>kill</w>
+<w>ya</w>
+<w>A</w>
+<w>second</w>
+<w>later</w>
+<w>he</w>
+<w>heard</w>
+<w>a</w>
+<w>body</w>
+<w>hit</w>
+<w>the</w>
+<w>floor</w>
+<w>Ran</w>
+<w>to</w>
+<w>the</w>
+<w>door</w>
+<w>opened</w>
+<w>it</w>
+<w>up</w>
+<w>saw</w>
+<w>the</w>
+<w>kid</w>
+<w>running</w>
+<w>down</w>
+<w>the</w>
+<w>stairs</w>
+<w>and</w>
+<w>out</w>
+<w>of</w>
+<w>the</w>
+<w>house</w>
+<w>Called</w>
+<w>the</w>
+<w>police</w>
+<media start="294.0440" end="296.7120" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>They</w>
+<w>came</w>
+<w>in</w>
+<w>found</w>
+<w>the</w>
+<w>old</w>
+<w>man</w>
+<w>with</w>
+<w>a</w>
+<w>knife</w>
+<w>in</w>
+<w>his</w>
+<w>chest</w>
+<media start="296.7960" end="300.0490" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>The</w>
+<w>coroner</w>
+<w>fixed</w>
+<w>the</w>
+<w>time</w>
+<w>of</w>
+<w>death</w>
+<w>around</w>
+<w>midnight</w>
+<media start="300.1330" end="303.2180" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Now</w>
+<w>these</w>
+<w>are</w>
+<w>facts</w>
+<w>You</w>
+<w>can't</w>
+<w>refute</w>
+<w>facts</w>
+<media start="303.3030" end="305.4710" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>The</w>
+<w>kid</w>
+<w>is</w>
+<w>guilty</w>
+<w>I'm</w>
+<w>just</w>
+<w>as</w>
+<w>sentimental</w>
+<w>as</w>
+<w>the</w>
+<w>next</w>
+<w>fella</w>
+<w>I</w>
+<w>know</w>
+<w>he's</w>
+<w>only</w>
+<w>but</w>
+<w>he's</w>
+<w>still</w>
+<w>gotta</w>
+<w>pay</w>
+<w>for</w>
+<w>what</w>
+<w>he</w>
+<w>did</w>
+<media start="311.6030" end="313.0620" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>I'm</w>
+<w>with</w>
+<w>you</w>
+<media start="317.3170" end="320.5270" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>It</w>
+<w>is</w>
+<w>obvious</w>
+<w>to</w>
+<w>me</w>
+<w>anyway</w>
+<w>that</w>
+<w>the</w>
+<w>boy's</w>
+<w>entire</w>
+<w>story</w>
+<w>was</w>
+<w>flimsy</w>
+<w>He</w>
+<w>claimed</w>
+<w>he</w>
+<w>was</w>
+<w>at</w>
+<w>the</w>
+<w>movies</w>
+<w>during</w>
+<w>the</w>
+<w>time</w>
+<w>of</w>
+<w>the</w>
+<w>killing</w>
+<w>and</w>
+<w>yet</w>
+<w>one</w>
+<w>hour</w>
+<w>later</w>
+<w>he</w>
+<w>couldn't</w>
+<w>remember</w>
+<w>the</w>
+<w>names</w>
+<w>of</w>
+<w>the</w>
+<w>films</w>
+<w>he</w>
+<w>saw</w>
+<w>or</w>
+<w>who</w>
+<w>played</w>
+<w>in</w>
+<w>them</w>
+<media start="327.3680" end="327.8450" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>That's</w>
+<w>right</w>
+<media start="327.4520" end="329.7450" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>And</w>
+<w>no</w>
+<w>one</w>
+<w>saw</w>
+<w>him</w>
+<w>going</w>
+<w>in</w>
+<w>or</w>
+<w>out</w>
+<w>of</w>
+<w>the</w>
+<w>theater</w>
+<media start="329.8290" end="331.4550" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Listen</w>
+<w>what</w>
+<w>about</w>
+<w>the</w>
+<w>woman</w>
+<w>across</w>
+<w>the</w>
+<w>street</w>
+<w>If</w>
+<w>her</w>
+<w>testimony</w>
+<w>don't</w>
+<w>prove</w>
+<w>it</w>
+<w>nothing</w>
+<w>does</w>
+<media start="333.9170" end="336.2510" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>That's</w>
+<w>right</w>
+<w>She</w>
+<w>was</w>
+<w>the</w>
+<w>one</w>
+<w>who</w>
+<w>actually</w>
+<w>saw</w>
+<w>the</w>
+<w>killing</w>
+<media start="336.3360" end="338.7540" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Now</w>
+<w>fellas</w>
+<w>please</w>
+<w>Let's</w>
+<w>go</w>
+<w>in</w>
+<w>order</w>
+<w>here</w>
+<w>huh</w>
+<media start="338.8380" end="342.0910" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Just</w>
+<w>a</w>
+<w>minute</w>
+<w>Here's</w>
+<w>a</w>
+<w>woman</w>
+<w>Here's</w>
+<w>a</w>
+<w>woman</w>
+<w>who</w>
+<w>was</w>
+<w>lying</w>
+<w>in</w>
+<w>bed</w>
+<w>She</w>
+<w>can't</w>
+<w>sleep</w>
+<w>She's</w>
+<w>dying</w>
+<w>with</w>
+<w>the</w>
+<w>heat</w>
+<w>You</w>
+<w>know</w>
+<w>what</w>
+<w>I</w>
+<w>mean</w>
+<w>Anyway</w>
+<w>she</w>
+<w>looks</w>
+<w>out</w>
+<w>the</w>
+<w>window</w>
+<w>and</w>
+<w>right</w>
+<w>across</w>
+<w>the</w>
+<w>street</w>
+<w>she</w>
+<w>sees</w>
+<w>the</w>
+<w>kid</w>
+<w>stick</w>
+<w>the</w>
+<w>knife</w>
+<w>into</w>
+<w>his</w>
+<w>father</w>
+<media start="352.3100" end="355.1870" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>The</w>
+<w>time</w>
+<w>is</w>
+<w>on</w>
+<w>the</w>
+<w>nose</w>
+<w>Everything</w>
+<w>fits</w>
+<w>Look</w>
+<w>she's</w>
+<w>known</w>
+<w>the</w>
+<w>kid</w>
+<w>all</w>
+<w>his</w>
+<w>life</w>
+<w>His</w>
+<w>window</w>
+<w>is</w>
+<w>right</w>
+<w>opposite</w>
+<w>hers</w>
+<w>across</w>
+<w>the</w>
+<w>el</w>
+<w>tracks</w>
+<w>and</w>
+<w>she</w>
+<w>swore</w>
+<w>she</w>
+<w>saw</w>
+<w>him</w>
+<w>do</w>
+<w>it</w>
+<media start="363.1130" end="365.7810" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Through</w>
+<w>the</w>
+<w>windows</w>
+<w>of</w>
+<w>the</w>
+<w>passing</w>
+<w>el</w>
+<w>train</w>
+<media start="365.8650" end="370.0350" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>This</w>
+<w>el</w>
+<w>train</w>
+<w>had</w>
+<w>no</w>
+<w>passengers</w>
+<w>on</w>
+<w>it</w>
+<w>It</w>
+<w>was</w>
+<w>just</w>
+<w>being</w>
+<w>moved</w>
+<w>downtown</w>
+<w>The</w>
+<w>lights</w>
+<w>were</w>
+<w>out</w>
+<w>remember</w>
+<w>And</w>
+<w>they</w>
+<w>proved</w>
+<w>in</w>
+<w>court</w>
+<w>that</w>
+<w>at</w>
+<w>night</w>
+<w>you</w>
+<w>can</w>
+<w>look</w>
+<w>through</w>
+<w>the</w>
+<w>windows</w>
+<w>of</w>
+<w>an</w>
+<w>el</w>
+<w>train</w>
+<w>when</w>
+<w>the</w>
+<w>lights</w>
+<w>are</w>
+<w>out</w>
+<media start="375.6250" end="377.9600" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>and</w>
+<w>see</w>
+<w>what's</w>
+<w>happening</w>
+<w>on</w>
+<w>the</w>
+<w>other</w>
+<w>side</w>
+<w>They</w>
+<w>proved</w>
+<w>it</w>
+<media start="380.8790" end="380.9450" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I'd</w>
+<w>like</w>
+<w>to</w>
+<w>ask</w>
+<w>you</w>
+<w>something</w>
+<media start="380.9640" end="383.6320" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>You</w>
+<w>don't</w>
+<w>believe</w>
+<w>the</w>
+<w>boy's</w>
+<w>story</w>
+<w>How</w>
+<w>come</w>
+<w>you</w>
+<w>believe</w>
+<w>the</w>
+<w>woman's</w>
+<media start="383.7170" end="385.4670" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>She's</w>
+<w>one</w>
+<w>of</w>
+<w>them</w>
+<w>too</w>
+<w>isn't</w>
+<w>she</w>
+<media start="388.1380" end="390.1390" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>You're</w>
+<w>a</w>
+<w>pretty</w>
+<w>smart</w>
+<w>fella</w>
+<w>aren't</w>
+<w>you</w>
+<w>Oh</w>
+<w>what's</w>
+<w>he</w>
+<w>so</w>
+<w>wise</w>
+<w>about</w>
+<w>I'm</w>
+<w>telling</w>
+<w>you</w>
+<media start="396.6460" end="399.8980" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Okay</w>
+<w>now</w>
+<w>come</w>
+<w>on</w>
+<w>Now</w>
+<w>we're</w>
+<w>not</w>
+<w>gonna</w>
+<w>get</w>
+<w>anywhere</w>
+<w>fighting</w>
+<w>Whose</w>
+<w>turn</w>
+<w>is</w>
+<w>it</w>
+<w>next</w>
+<media start="401.3170" end="404.1530" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Oh</w>
+<w>uh</w>
+<w>his</w>
+<w>Number</w>
+<w>five</w>
+<media start="406.4060" end="409.1580" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Okay</w>
+<w>may</w>
+<w>I</w>
+<w>Can</w>
+<w>I</w>
+<w>pass</w>
+<w>It</w>
+<media start="409.9510" end="411.9940" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Well</w>
+<w>uh</w>
+<w>that's</w>
+<w>your</w>
+<w>privilege</w>
+<w>Uh</w>
+<w>how</w>
+<w>about</w>
+<w>the</w>
+<w>next</w>
+<w>gentleman</w>
+<media start="415.2900" end="417.9580" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Oh</w>
+<w>Well</w>
+<w>uh</w>
+<w>I</w>
+<w>don't</w>
+<w>know</w>
+<w>I</w>
+<w>started</w>
+<w>to</w>
+<w>be</w>
+<w>convinced</w>
+<w>you</w>
+<w>know</w>
+<w>very</w>
+<w>early</w>
+<w>in</w>
+<w>the</w>
+<w>case</w>
+<w>You</w>
+<w>see</w>
+<w>I</w>
+<w>was</w>
+<w>looking</w>
+<w>for</w>
+<w>a</w>
+<w>motive</w>
+<w>That's</w>
+<w>very</w>
+<w>important</w>
+<w>Because</w>
+<w>if</w>
+<w>you</w>
+<w>don't</w>
+<w>have</w>
+<w>a</w>
+<w>motive</w>
+<w>where's</w>
+<w>your</w>
+<w>case</w>
+<w>right</w>
+<w>Anyway</w>
+<w>that</w>
+<w>uh</w>
+<w>testimony</w>
+<w>from</w>
+<w>those</w>
+<w>people</w>
+<w>in</w>
+<w>the</w>
+<w>apartment</w>
+<w>across</w>
+<w>the</w>
+<w>hall</w>
+<w>from</w>
+<w>the</w>
+<w>kid's</w>
+<w>apartment</w>
+<w>that</w>
+<w>was</w>
+<w>very</w>
+<w>powerful</w>
+<w>Didn't</w>
+<w>they</w>
+<w>say</w>
+<w>something</w>
+<w>about</w>
+<w>a</w>
+<w>a</w>
+<w>fight</w>
+<w>and</w>
+<w>an</w>
+<w>argument</w>
+<w>between</w>
+<w>the</w>
+<w>old</w>
+<w>man</w>
+<w>and</w>
+<w>his</w>
+<w>son</w>
+<w>around</w>
+<w>about</w>
+<w>uh</w>
+<w>that</w>
+<w>night</w>
+<media start="449.9080" end="451.9500" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>It</w>
+<w>was</w>
+<w>That's</w>
+<w>right</w>
+<w>They</w>
+<w>heard</w>
+<w>an</w>
+<w>argument</w>
+<w>They</w>
+<w>couldn't</w>
+<w>hear</w>
+<w>what</w>
+<w>it</w>
+<w>was</w>
+<w>about</w>
+<w>Then</w>
+<w>they</w>
+<w>heard</w>
+<w>the</w>
+<w>father</w>
+<w>hit</w>
+<w>the</w>
+<w>boy</w>
+<w>twice</w>
+<w>Finally</w>
+<w>they</w>
+<w>saw</w>
+<w>the</w>
+<w>boy</w>
+<w>run</w>
+<w>angrily</w>
+<w>out</w>
+<w>of</w>
+<w>the</w>
+<w>house</w>
+<w>What</w>
+<w>does</w>
+<w>that</w>
+<w>prove</w>
+<media start="460.6270" end="464.2960" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Well</w>
+<w>it</w>
+<w>don't</w>
+<w>exactly</w>
+<w>prove</w>
+<w>anything</w>
+<w>It's</w>
+<w>just</w>
+<w>part</w>
+<w>of</w>
+<w>the</w>
+<w>picture</w>
+<media start="464.3800" end="467.2990" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Well</w>
+<w>you</w>
+<w>said</w>
+<w>it</w>
+<w>provided</w>
+<w>a</w>
+<w>motive</w>
+<w>The</w>
+<w>prosecuting</w>
+<w>attorney</w>
+<w>said</w>
+<w>the</w>
+<w>same</w>
+<w>thing</w>
+<w>I</w>
+<w>don't</w>
+<w>think</w>
+<w>that</w>
+<w>was</w>
+<w>a</w>
+<w>very</w>
+<w>strong</w>
+<w>motive</w>
+<media start="469.7190" end="473.3050" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>This</w>
+<w>boy's</w>
+<w>been</w>
+<w>hit</w>
+<w>so</w>
+<w>many</w>
+<w>times</w>
+<w>in</w>
+<w>his</w>
+<w>life</w>
+<w>that</w>
+<w>violence</w>
+<w>is</w>
+<w>practically</w>
+<w>a</w>
+<media start="473.3890" end="475.7660" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>It's</w>
+<w>a</w>
+<w>normal</w>
+<w>state</w>
+<w>of</w>
+<w>affairs</w>
+<w>with</w>
+<w>him</w>
+<media start="475.8500" end="480.0620" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>just</w>
+<w>I</w>
+<w>can't</w>
+<w>see</w>
+<w>two</w>
+<w>slaps</w>
+<w>in</w>
+<w>the</w>
+<w>face</w>
+<w>provoking</w>
+<w>him</w>
+<w>into</w>
+<w>committing</w>
+<w>murder</w>
+<media start="480.1460" end="483.7320" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>It</w>
+<w>may</w>
+<w>have</w>
+<w>been</w>
+<w>two</w>
+<w>too</w>
+<w>many</w>
+<w>Everyone</w>
+<w>has</w>
+<w>a</w>
+<w>breaking</w>
+<w>point</w>
+<media start="486.2770" end="488.3620" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Anything</w>
+<w>else</w>
+<w>Uh</w>
+<w>how</w>
+<w>about</w>
+<w>you</w>
+<media start="494.5770" end="496.5370" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>I</w>
+<w>don't</w>
+<w>know</w>
+<w>It's</w>
+<w>all</w>
+<w>been</w>
+<w>said</w>
+<w>You</w>
+<w>can</w>
+<w>talk</w>
+<w>here</w>
+<w>forever</w>
+<w>It's</w>
+<w>still</w>
+<w>the</w>
+<w>same</w>
+<w>thing</w>
+<w>This</w>
+<w>kid</w>
+<w>is</w>
+<w>five</w>
+<w>for</w>
+<media start="504.9630" end="506.8390" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Well</w>
+<w>look</w>
+<w>at</w>
+<w>his</w>
+<w>record</w>
+<w>When</w>
+<w>he</w>
+<w>was</w>
+<w>he</w>
+<w>was</w>
+<w>in</w>
+<w>children's</w>
+<w>court</w>
+<w>He</w>
+<w>threw</w>
+<w>a</w>
+<w>rock</w>
+<w>at</w>
+<w>a</w>
+<w>teacher</w>
+<w>When</w>
+<w>he</w>
+<w>was</w>
+<w>he</w>
+<w>was</w>
+<w>in</w>
+<w>reform</w>
+<w>school</w>
+<w>He</w>
+<w>stole</w>
+<w>a</w>
+<w>car</w>
+<w>He's</w>
+<w>been</w>
+<w>arrested</w>
+<w>for</w>
+<w>mugging</w>
+<w>He</w>
+<w>was</w>
+<w>picked</w>
+<w>up</w>
+<w>twice</w>
+<w>for</w>
+<w>knife</w>
+<w>fighting</w>
+<w>Oh</w>
+<w>yeah</w>
+<w>they</w>
+<w>say</w>
+<w>he's</w>
+<w>real</w>
+<w>handy</w>
+<w>with</w>
+<w>a</w>
+<w>knife</w>
+<w>Oh</w>
+<w>this</w>
+<w>is</w>
+<w>a</w>
+<w>very</w>
+<w>fine</w>
+<w>boy</w>
+<media start="525.1080" end="528.1100" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Ever</w>
+<w>since</w>
+<w>he</w>
+<w>was</w>
+<w>five</w>
+<w>years</w>
+<w>old</w>
+<w>his</w>
+<w>father</w>
+<w>beat</w>
+<w>him</w>
+<w>up</w>
+<w>regularly</w>
+<w>He</w>
+<w>used</w>
+<w>his</w>
+<w>fists</w>
+<media start="530.6970" end="532.1970" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>A</w>
+<w>kid</w>
+<w>like</w>
+<w>that</w>
+<media start="532.2820" end="535.4500" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>It's</w>
+<w>these</w>
+<w>kids</w>
+<w>the</w>
+<w>way</w>
+<w>they</w>
+<w>are</w>
+<w>nowadays</w>
+<w>When</w>
+<w>I</w>
+<w>was</w>
+<w>a</w>
+<w>kid</w>
+<w>I</w>
+<w>used</w>
+<w>to</w>
+<w>call</w>
+<w>my</w>
+<w>father</w>
+<w>sir</w>
+<w>Do</w>
+<w>you</w>
+<w>ever</w>
+<w>hear</w>
+<w>a</w>
+<w>kid</w>
+<w>call</w>
+<w>his</w>
+<w>father</w>
+<w>that</w>
+<w>anymore</w>
+<media start="545.2950" end="547.7960" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Fathers</w>
+<w>don't</w>
+<w>seem</w>
+<w>to</w>
+<w>think</w>
+<w>it's</w>
+<w>important</w>
+<w>anymore</w>
+<media start="548.5900" end="550.6320" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>You</w>
+<w>got</w>
+<w>any</w>
+<w>kids</w>
+<w>I</w>
+<w>got</w>
+<w>one</w>
+<media start="554.8460" end="556.5970" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Twenty</w>
+<w>two</w>
+<w>years</w>
+<w>old</w>
+<w>When</w>
+<w>he</w>
+<w>was</w>
+<w>nine</w>
+<w>years</w>
+<w>old</w>
+<w>he</w>
+<w>ran</w>
+<w>away</w>
+<w>from</w>
+<w>a</w>
+<w>fight</w>
+<w>I</w>
+<w>saw</w>
+<w>it</w>
+<w>I</w>
+<w>was</w>
+<w>so</w>
+<w>embarrassed</w>
+<w>I</w>
+<w>almost</w>
+<w>threw</w>
+<w>up</w>
+<w>I</w>
+<w>said</w>
+<w>I'm</w>
+<w>gonna</w>
+<w>make</w>
+<w>a</w>
+<w>man</w>
+<w>out</w>
+<w>of</w>
+<w>you</w>
+<w>if</w>
+<w>I</w>
+<w>have</w>
+<w>to</w>
+<w>break</w>
+<w>you</w>
+<w>in</w>
+<w>two</w>
+<w>trying</w>
+<media start="579.1620" end="581.0790" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Well</w>
+<w>I</w>
+<w>made</w>
+<w>a</w>
+<w>man</w>
+<w>out</w>
+<w>of</w>
+<w>him</w>
+<w>When</w>
+<w>he</w>
+<w>was</w>
+<w>we</w>
+<w>had</w>
+<w>a</w>
+<w>fight</w>
+<w>Hit</w>
+<w>me</w>
+<w>in</w>
+<w>the</w>
+<w>jaw</w>
+<w>He</w>
+<w>was</w>
+<w>a</w>
+<w>big</w>
+<w>kid</w>
+<w>Haven't</w>
+<w>seen</w>
+<w>him</w>
+<w>for</w>
+<w>two</w>
+<w>years</w>
+<w>Work</w>
+<w>your</w>
+<w>heart</w>
+<w>out</w>
+<w>Well</w>
+<w>let's</w>
+<w>get</w>
+<w>going</w>
+<media start="605.5210" end="607.8560" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>I</w>
+<w>think</w>
+<w>we're</w>
+<w>missing</w>
+<w>the</w>
+<w>point</w>
+<w>here</w>
+<media start="607.9410" end="611.3600" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>This</w>
+<w>boy</w>
+<w>let's</w>
+<w>say</w>
+<w>he's</w>
+<w>the</w>
+<w>product</w>
+<w>of</w>
+<w>a</w>
+<w>broken</w>
+<w>home</w>
+<w>and</w>
+<w>a</w>
+<w>filthy</w>
+<w>neighborhood</w>
+<w>We</w>
+<w>can't</w>
+<w>help</w>
+<w>that</w>
+<w>We're</w>
+<w>here</w>
+<w>to</w>
+<w>decide</w>
+<w>whether</w>
+<w>he's</w>
+<w>innocent</w>
+<w>or</w>
+<w>guilty</w>
+<w>not</w>
+<w>to</w>
+<w>go</w>
+<w>into</w>
+<w>the</w>
+<w>reasons</w>
+<w>why</w>
+<w>he</w>
+<w>grew</w>
+<w>up</w>
+<w>the</w>
+<w>way</w>
+<w>he</w>
+<w>did</w>
+<w>He</w>
+<w>was</w>
+<w>born</w>
+<w>in</w>
+<w>a</w>
+<w>slum</w>
+<w>Slums</w>
+<w>are</w>
+<w>breeding</w>
+<w>grounds</w>
+<w>for</w>
+<w>criminals</w>
+<w>I</w>
+<w>know</w>
+<w>it</w>
+<w>and</w>
+<w>so</w>
+<w>do</w>
+<w>you</w>
+<w>It's</w>
+<w>no</w>
+<w>secret</w>
+<w>children</w>
+<w>from</w>
+<w>slum</w>
+<w>backgrounds</w>
+<w>are</w>
+<w>potential</w>
+<w>menaces</w>
+<w>to</w>
+<w>society</w>
+<media start="627.6690" end="629.8360" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Brother</w>
+<w>you</w>
+<w>can</w>
+<w>say</w>
+<w>that</w>
+<w>again</w>
+<w>The</w>
+<w>kids</w>
+<w>who</w>
+<w>crawl</w>
+<w>out</w>
+<w>of</w>
+<w>these</w>
+<w>places</w>
+<w>are</w>
+<w>real</w>
+<w>trash</w>
+<w>I</w>
+<w>don't</w>
+<w>want</w>
+<w>any</w>
+<w>part</w>
+<w>of</w>
+<w>them</w>
+<w>I'm</w>
+<w>telling</w>
+<w>you</w>
+<media start="634.8840" end="638.5950" unit="s"/>
+</u>
+
+<u who="Juror 5" uID="#5">
+<w>I</w>
+<w>uh</w>
+<w>I've</w>
+<w>lived</w>
+<w>in</w>
+<w>a</w>
+<w>slum</w>
+<w>all</w>
+<w>my</w>
+<w>life</w>
+<w>Please</w>
+<w>I</w>
+<w>I</w>
+<w>played</w>
+<w>in</w>
+<w>backyards</w>
+<w>that</w>
+<w>were</w>
+<w>filled</w>
+<w>with</w>
+<w>garbage</w>
+<w>I</w>
+<w>mean</w>
+<w>maybe</w>
+<w>you</w>
+<w>can</w>
+<w>still</w>
+<w>smell</w>
+<w>it</w>
+<w>on</w>
+<w>me</w>
+<media start="644.3100" end="645.6440" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Now</w>
+<w>listen</w>
+<w>sonny</w>
+<media start="645.7280" end="647.3120" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Come</w>
+<w>on</w>
+<w>now</w>
+<w>There's</w>
+<w>nothing</w>
+<w>personal</w>
+<w>about</w>
+<w>this</w>
+<media start="647.3970" end="649.9400" unit="s"/>
+</u>
+
+<u who="Juror 5" uID="#5">
+<w>No</w>
+<w>there</w>
+<w>was</w>
+<w>something</w>
+<w>personal</w>
+<media start="649.9400" end="649.9950" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Aw</w>
+<w>come</w>
+<w>on</w>
+<w>fella</w>
+<w>He</w>
+<w>didn't</w>
+<w>mean</w>
+<w>you</w>
+<media start="650.0240" end="652.1090" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Let's</w>
+<w>not</w>
+<w>be</w>
+<w>so</w>
+<w>sensitive</w>
+<media start="652.1930" end="654.0270" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>This</w>
+<w>sensitivity</w>
+<w>I</w>
+<w>can</w>
+<w>understand</w>
+<media start="654.1120" end="658.7400" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Okay</w>
+<w>look</w>
+<w>let's</w>
+<w>stop</w>
+<w>the</w>
+<w>arguing</w>
+<w>We're</w>
+<w>only</w>
+<w>wasting</w>
+<w>time</w>
+<w>and</w>
+<media start="659.9090" end="662.0350" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Look</w>
+<w>your</w>
+<w>turn</w>
+<w>down</w>
+<w>there</w>
+<w>Let's</w>
+<w>go</w>
+<media start="663.3710" end="666.2060" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Oh</w>
+<w>I</w>
+<w>didn't</w>
+<w>expect</w>
+<w>a</w>
+<w>turn</w>
+<w>I</w>
+<w>thought</w>
+<w>you</w>
+<w>were</w>
+<w>all</w>
+<w>gonna</w>
+<w>try</w>
+<w>to</w>
+<w>convince</w>
+<w>me</w>
+<media start="666.2900" end="668.0410" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Wasn't</w>
+<w>that</w>
+<w>the</w>
+<w>idea</w>
+<media start="668.1260" end="670.3350" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>What</w>
+<w>difference</w>
+<w>does</w>
+<w>it</w>
+<w>make</w>
+<media start="670.4200" end="672.7540" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>He's</w>
+<w>the</w>
+<w>one</w>
+<w>who's</w>
+<w>keeping</w>
+<w>us</w>
+<w>in</w>
+<w>here</w>
+<w>Let's</w>
+<w>hear</w>
+<w>what</w>
+<w>he's</w>
+<w>got</w>
+<w>to</w>
+<w>say</w>
+<media start="672.8390" end="675.5490" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Oh</w>
+<w>now</w>
+<w>wait</w>
+<w>a</w>
+<w>minute</w>
+<w>We</w>
+<w>decided</w>
+<w>to</w>
+<w>do</w>
+<w>this</w>
+<w>a</w>
+<w>certain</w>
+<w>way</w>
+<media start="675.6330" end="677.2590" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>I</w>
+<w>think</w>
+<w>we</w>
+<w>ought</w>
+<w>to</w>
+<w>stick</w>
+<w>to</w>
+<w>that</w>
+<w>way</w>
+<media start="677.3430" end="679.3440" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Oh</w>
+<w>stop</w>
+<w>being</w>
+<w>a</w>
+<w>kid</w>
+<w>will</w>
+<w>you</w>
+<media start="679.4290" end="681.4300" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>What</w>
+<w>do</w>
+<w>you</w>
+<w>mean</w>
+<w>a</w>
+<w>kid</w>
+<media start="681.5140" end="683.1400" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Kid</w>
+<media start="685.7270" end="689.3960" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>What</w>
+<w>Listen</w>
+<w>just</w>
+<w>because</w>
+<w>I'm</w>
+<w>trying</w>
+<w>to</w>
+<w>keep</w>
+<w>this</w>
+<w>thing</w>
+<w>organized</w>
+<media start="689.4800" end="691.6060" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Here</w>
+<w>you</w>
+<w>take</w>
+<w>it</w>
+<w>You</w>
+<w>take</w>
+<w>on</w>
+<w>the</w>
+<w>responsibility</w>
+<media start="691.6910" end="693.5670" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>I'll</w>
+<w>just</w>
+<w>I'll</w>
+<w>keep</w>
+<w>my</w>
+<w>mouth</w>
+<w>shut</w>
+<w>That's</w>
+<w>all</w>
+<media start="693.6510" end="695.6520" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>What</w>
+<w>are</w>
+<w>you</w>
+<w>getting</w>
+<w>so</w>
+<w>hot</w>
+<w>about</w>
+<w>Calm</w>
+<w>down</w>
+<w>will</w>
+<w>you</w>
+<media start="695.7370" end="697.0700" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Don't</w>
+<w>tell</w>
+<w>me</w>
+<w>to</w>
+<w>calm</w>
+<w>down</w>
+<w>Here</w>
+<w>You</w>
+<w>wanna</w>
+<w>take</w>
+<w>the</w>
+<w>chair</w>
+<w>just</w>
+<w>take</w>
+<w>the</w>
+<w>chair</w>
+<w>That's</w>
+<w>all</w>
+<media start="699.3650" end="701.8250" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Did</w>
+<w>you</w>
+<w>ever</w>
+<w>see</w>
+<w>such</w>
+<w>a</w>
+<w>thing</w>
+<media start="701.9090" end="703.8690" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Listen</w>
+<w>you</w>
+<w>think</w>
+<w>it's</w>
+<w>funny</w>
+<w>or</w>
+<w>something</w>
+<media start="703.9530" end="705.5370" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>The</w>
+<w>whole</w>
+<w>thing's</w>
+<w>unimportant</w>
+<w>Come</w>
+<w>on</w>
+<media start="705.6210" end="708.7490" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Unimportant</w>
+<w>Oh</w>
+<w>here</w>
+<w>you</w>
+<w>try</w>
+<w>it</w>
+<media start="708.8330" end="710.5840" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>You're</w>
+<w>doing</w>
+<w>a</w>
+<w>beautiful</w>
+<w>job</w>
+<w>Sit</w>
+<w>down</w>
+<media start="710.6680" end="713.5030" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Yeah</w>
+<w>you're</w>
+<w>doing</w>
+<w>great</w>
+<w>Just</w>
+<w>great</w>
+<w>fella</w>
+<w>You</w>
+<w>stay</w>
+<w>in</w>
+<w>there</w>
+<w>and</w>
+<w>pitch</w>
+<w>You</w>
+<w>know</w>
+<media start="716.4240" end="718.6330" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>All</w>
+<w>right</w>
+<w>Let's</w>
+<w>hear</w>
+<w>from</w>
+<w>somebody</w>
+<media start="720.1360" end="724.2220" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Well</w>
+<w>if</w>
+<w>you</w>
+<w>want</w>
+<w>me</w>
+<w>to</w>
+<w>tell</w>
+<w>you</w>
+<w>how</w>
+<w>I</w>
+<w>feel</w>
+<w>about</w>
+<w>it</w>
+<w>it's</w>
+<w>all</w>
+<w>right</w>
+<w>with</w>
+<w>me</w>
+<media start="724.3070" end="726.4330" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Boy</w>
+<w>I</w>
+<w>don't</w>
+<w>care</w>
+<w>what</w>
+<w>you</w>
+<w>do</w>
+<media start="726.5170" end="729.3940" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>All</w>
+<w>right</w>
+<w>I</w>
+<w>don't</w>
+<w>have</w>
+<w>anything</w>
+<w>brilliant</w>
+<w>I</w>
+<w>only</w>
+<w>know</w>
+<w>as</w>
+<w>much</w>
+<w>as</w>
+<w>you</w>
+<w>do</w>
+<media start="731.6890" end="735.4420" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>According</w>
+<w>to</w>
+<w>the</w>
+<w>testimony</w>
+<w>the</w>
+<w>boy</w>
+<w>looks</w>
+<w>guilty</w>
+<w>Maybe</w>
+<w>he</w>
+<w>is</w>
+<w>I</w>
+<w>sat</w>
+<w>there</w>
+<w>in</w>
+<w>court</w>
+<w>for</w>
+<w>six</w>
+<w>days</w>
+<w>listening</w>
+<w>while</w>
+<w>the</w>
+<w>evidence</w>
+<w>built</w>
+<w>up</w>
+<media start="740.3230" end="742.0320" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Everybody</w>
+<w>sounded</w>
+<w>so</w>
+<w>positive</w>
+<w>you</w>
+<w>know</w>
+<w>I</w>
+<w>I</w>
+<w>began</w>
+<w>to</w>
+<w>get</w>
+<w>a</w>
+<w>peculiar</w>
+<w>feeling</w>
+<w>about</w>
+<w>this</w>
+<w>trial</w>
+<media start="744.6600" end="746.7450" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>mean</w>
+<w>nothing</w>
+<w>is</w>
+<w>that</w>
+<w>positive</w>
+<w>There</w>
+<w>are</w>
+<w>a</w>
+<w>lot</w>
+<w>of</w>
+<w>questions</w>
+<w>I'd</w>
+<w>have</w>
+<w>liked</w>
+<w>to</w>
+<w>ask</w>
+<media start="749.0400" end="751.7500" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>don't</w>
+<w>know</w>
+<w>Maybe</w>
+<w>they</w>
+<w>wouldn't</w>
+<w>have</w>
+<w>meant</w>
+<w>anything</w>
+<w>but</w>
+<w>I</w>
+<w>began</w>
+<w>to</w>
+<w>get</w>
+<w>the</w>
+<w>feeling</w>
+<w>that</w>
+<w>the</w>
+<w>defense</w>
+<w>counsel</w>
+<w>wasn't</w>
+<w>conducting</w>
+<w>a</w>
+<w>thorough</w>
+<w>enough</w>
+<w>cross</w>
+<w>examination</w>
+<w>I</w>
+<w>mean</w>
+<w>he</w>
+<w>he</w>
+<w>let</w>
+<w>too</w>
+<w>many</w>
+<w>things</w>
+<w>go</w>
+<w>by</w>
+<w>little</w>
+<w>things</w>
+<w>that</w>
+<media start="759.9260" end="762.6770" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>What</w>
+<w>little</w>
+<w>things</w>
+<w>Listen</w>
+<w>when</w>
+<w>these</w>
+<w>fellas</w>
+<w>don't</w>
+<w>ask</w>
+<w>questions</w>
+<media start="762.7620" end="765.2630" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>it's</w>
+<w>because</w>
+<w>they</w>
+<w>know</w>
+<w>the</w>
+<w>answers</w>
+<w>already</w>
+<w>and</w>
+<w>they</w>
+<w>figure</w>
+<w>they'll</w>
+<w>be</w>
+<w>hurt</w>
+<media start="765.3480" end="769.2670" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Maybe</w>
+<w>it's</w>
+<w>also</w>
+<w>possible</w>
+<w>for</w>
+<w>a</w>
+<w>lawyer</w>
+<w>to</w>
+<w>be</w>
+<w>just</w>
+<w>plain</w>
+<w>stupid</w>
+<w>isn't</w>
+<w>it</w>
+<w>I</w>
+<w>mean</w>
+<w>it's</w>
+<w>possible</w>
+<media start="770.7280" end="772.3950" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>You</w>
+<w>sound</w>
+<w>like</w>
+<w>you</w>
+<w>met</w>
+<w>my</w>
+<w>brother</w>
+<w>in</w>
+<w>law</w>
+<w>once</w>
+<media start="775.4830" end="778.1930" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>kept</w>
+<w>putting</w>
+<w>myself</w>
+<w>in</w>
+<w>the</w>
+<w>kid's</w>
+<w>place</w>
+<w>I'd</w>
+<w>have</w>
+<w>asked</w>
+<w>for</w>
+<w>another</w>
+<w>lawyer</w>
+<w>I</w>
+<w>think</w>
+<media start="782.2400" end="784.7830" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>mean</w>
+<w>if</w>
+<w>I</w>
+<w>was</w>
+<w>on</w>
+<w>trial</w>
+<w>for</w>
+<w>my</w>
+<w>life</w>
+<w>I'd</w>
+<w>want</w>
+<w>my</w>
+<w>lawyer</w>
+<w>to</w>
+<w>tear</w>
+<w>the</w>
+<w>prosecution</w>
+<w>witnesses</w>
+<w>to</w>
+<w>shreds</w>
+<w>or</w>
+<w>at</w>
+<w>least</w>
+<w>try</w>
+<w>to</w>
+<w>Look</w>
+<w>there</w>
+<w>was</w>
+<w>one</w>
+<w>alleged</w>
+<w>eyewitness</w>
+<w>to</w>
+<w>this</w>
+<w>killing</w>
+<w>Someone</w>
+<w>else</w>
+<w>claims</w>
+<w>he</w>
+<w>heard</w>
+<w>the</w>
+<w>killing</w>
+<w>saw</w>
+<w>the</w>
+<w>boy</w>
+<w>run</w>
+<w>out</w>
+<w>afterwards</w>
+<w>And</w>
+<w>there</w>
+<w>was</w>
+<w>a</w>
+<w>lot</w>
+<w>of</w>
+<w>circumstantial</w>
+<w>evidence</w>
+<w>But</w>
+<w>actually</w>
+<w>those</w>
+<w>two</w>
+<w>witnesses</w>
+<w>were</w>
+<w>the</w>
+<w>entire</w>
+<w>case</w>
+<w>for</w>
+<w>the</w>
+<w>prosecution</w>
+<media start="803.5110" end="805.3030" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Supposing</w>
+<w>they're</w>
+<w>wrong</w>
+<media start="805.3880" end="807.1800" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>What</w>
+<w>do</w>
+<w>you</w>
+<w>mean</w>
+<w>supposing</w>
+<w>they're</w>
+<w>wrong</w>
+<media start="807.2650" end="809.1410" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>What's</w>
+<w>the</w>
+<w>point</w>
+<w>of</w>
+<w>having</w>
+<w>witnesses</w>
+<w>at</w>
+<w>all</w>
+<media start="809.2250" end="811.8520" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Could</w>
+<w>they</w>
+<w>be</w>
+<w>wrong</w>
+<media start="811.9360" end="813.4780" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Those</w>
+<w>people</w>
+<w>sat</w>
+<w>on</w>
+<w>the</w>
+<w>stand</w>
+<w>under</w>
+<w>oath</w>
+<media start="813.5630" end="815.1050" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>They're</w>
+<w>only</w>
+<w>people</w>
+<w>People</w>
+<w>make</w>
+<w>mistakes</w>
+<media start="815.1890" end="816.8980" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Could</w>
+<w>they</w>
+<w>be</w>
+<w>wrong</w>
+<media start="817.6920" end="820.6100" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Well</w>
+<w>no</w>
+<w>I</w>
+<w>don't</w>
+<w>think</w>
+<w>so</w>
+<media start="820.6950" end="822.5290" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Oh</w>
+<w>come</w>
+<w>on</w>
+<w>Nobody</w>
+<w>can</w>
+<w>know</w>
+<w>a</w>
+<w>thing</w>
+<w>like</w>
+<w>that</w>
+<media start="822.6130" end="824.3220" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>This</w>
+<w>isn't</w>
+<w>an</w>
+<w>exact</w>
+<w>science</w>
+<media start="824.4070" end="825.7400" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>That's</w>
+<w>right</w>
+<w>It</w>
+<w>isn't</w>
+<media start="830.9130" end="833.6650" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Okay</w>
+<w>let</w>
+<w>Let's</w>
+<w>get</w>
+<w>to</w>
+<w>the</w>
+<w>point</w>
+<media start="833.7490" end="836.3340" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>What</w>
+<w>about</w>
+<w>the</w>
+<w>switch</w>
+<w>knife</w>
+<w>they</w>
+<w>found</w>
+<w>in</w>
+<w>the</w>
+<w>old</w>
+<w>man's</w>
+<w>chest</w>
+<media start="836.4190" end="838.8370" unit="s"/>
+</u>
+
+<u who="Juror 2" uID="#2">
+<w>Uh</w>
+<w>wait</w>
+<w>wait</w>
+<w>a</w>
+<w>minute</w>
+<w>There's</w>
+<w>some</w>
+<w>people</w>
+<w>who</w>
+<w>haven't</w>
+<w>talked</w>
+<w>yet</w>
+<media start="838.9210" end="840.9220" unit="s"/>
+</u>
+
+<u who="Juror 2" uID="#2">
+<w>Shouldn't</w>
+<w>we</w>
+<w>go</w>
+<w>in</w>
+<w>order</w>
+<media start="841.0070" end="843.3410" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Be</w>
+<w>quiet</w>
+<w>a</w>
+<w>second</w>
+<w>will</w>
+<w>you</w>
+<media start="844.8020" end="848.2630" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>the</w>
+<w>knife</w>
+<w>this</w>
+<w>fine</w>
+<w>upright</w>
+<w>boy</w>
+<w>admitted</w>
+<w>buying</w>
+<w>the</w>
+<w>night</w>
+<w>of</w>
+<w>the</w>
+<w>killing</w>
+<media start="848.3470" end="849.6810" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Let's</w>
+<w>talk</w>
+<w>about</w>
+<w>it</w>
+<media start="849.7650" end="852.0170" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>All</w>
+<w>right</w>
+<w>let's</w>
+<w>talk</w>
+<w>about</w>
+<w>it</w>
+<w>Let's</w>
+<w>get</w>
+<w>it</w>
+<w>in</w>
+<w>here</w>
+<w>and</w>
+<w>look</w>
+<w>at</w>
+<w>it</w>
+<w>I'd</w>
+<w>like</w>
+<w>to</w>
+<w>see</w>
+<w>it</w>
+<w>again</w>
+<w>Mr</w>
+<w>Foreman</w>
+<media start="853.9360" end="857.0220" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>We</w>
+<w>all</w>
+<w>saw</w>
+<w>what</w>
+<w>it</w>
+<w>looks</w>
+<w>like</w>
+<w>Why</w>
+<w>do</w>
+<w>we</w>
+<w>have</w>
+<w>to</w>
+<w>see</w>
+<w>it</w>
+<w>again</w>
+<media start="857.1060" end="859.0650" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>The</w>
+<w>gentleman</w>
+<w>has</w>
+<w>a</w>
+<w>right</w>
+<w>to</w>
+<w>see</w>
+<w>exhibits</w>
+<w>in</w>
+<w>evidence</w>
+<w>The</w>
+<w>knife</w>
+<w>and</w>
+<w>the</w>
+<w>way</w>
+<w>it</w>
+<w>was</w>
+<w>bought</w>
+<w>is</w>
+<w>pretty</w>
+<w>strong</w>
+<w>evidence</w>
+<w>don't</w>
+<w>you</w>
+<w>think</w>
+<media start="869.6190" end="871.2860" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>do</w>
+<media start="871.3700" end="873.8720" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>Now</w>
+<w>suppose</w>
+<w>we</w>
+<w>take</w>
+<w>these</w>
+<w>facts</w>
+<w>one</w>
+<w>at</w>
+<w>a</w>
+<w>time</w>
+<w>One</w>
+<w>The</w>
+<w>boy</w>
+<w>admitted</w>
+<w>going</w>
+<w>out</w>
+<w>of</w>
+<w>the</w>
+<w>house</w>
+<w>at</w>
+<w>on</w>
+<w>the</w>
+<w>night</w>
+<w>of</w>
+<w>the</w>
+<w>murder</w>
+<w>after</w>
+<w>being</w>
+<w>slapped</w>
+<w>several</w>
+<w>times</w>
+<w>by</w>
+<w>his</w>
+<w>father</w>
+<media start="879.2950" end="882.0470" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>No</w>
+<w>no</w>
+<w>No</w>
+<w>he</w>
+<w>didn't</w>
+<w>say</w>
+<w>slapped</w>
+<w>He</w>
+<w>said</w>
+<w>punched</w>
+<w>There's</w>
+<w>a</w>
+<w>difference</w>
+<w>between</w>
+<w>a</w>
+<w>slap</w>
+<w>and</w>
+<w>a</w>
+<w>punch</w>
+<media start="884.6340" end="887.2190" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>After</w>
+<w>being</w>
+<w>hit</w>
+<w>several</w>
+<w>times</w>
+<w>by</w>
+<w>his</w>
+<w>father</w>
+<w>Two</w>
+<w>He</w>
+<w>went</w>
+<w>directly</w>
+<w>to</w>
+<w>a</w>
+<w>neighborhood</w>
+<w>junk</w>
+<w>shop</w>
+<media start="889.6390" end="891.7650" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>where</w>
+<w>he</w>
+<w>bought</w>
+<w>one</w>
+<w>of</w>
+<w>those</w>
+<media start="891.8490" end="893.8500" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Switchblade</w>
+<w>knives</w>
+<media start="893.9350" end="895.7270" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>This</w>
+<w>wasn't</w>
+<w>what</w>
+<w>you'd</w>
+<w>call</w>
+<w>an</w>
+<w>ordinary</w>
+<w>knife</w>
+<w>It</w>
+<w>had</w>
+<w>a</w>
+<w>very</w>
+<w>unusual</w>
+<w>carved</w>
+<w>handle</w>
+<w>and</w>
+<w>blade</w>
+<w>The</w>
+<w>storekeeper</w>
+<w>who</w>
+<w>sold</w>
+<w>it</w>
+<w>to</w>
+<w>him</w>
+<w>said</w>
+<w>it</w>
+<w>was</w>
+<w>the</w>
+<w>only</w>
+<w>one</w>
+<w>of</w>
+<w>its</w>
+<w>kind</w>
+<w>he</w>
+<w>had</w>
+<w>ever</w>
+<w>had</w>
+<w>in</w>
+<w>stock</w>
+<w>Three</w>
+<w>He</w>
+<w>met</w>
+<w>some</w>
+<w>friends</w>
+<w>of</w>
+<w>his</w>
+<w>in</w>
+<w>front</w>
+<w>of</w>
+<w>a</w>
+<w>tavern</w>
+<w>about</w>
+<w>Am</w>
+<w>I</w>
+<w>right</w>
+<w>so</w>
+<w>far</w>
+<media start="908.6160" end="910.7420" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Yes</w>
+<w>you</w>
+<w>are</w>
+<media start="910.8260" end="913.9950" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>He</w>
+<w>talked</w>
+<w>with</w>
+<w>his</w>
+<w>friends</w>
+<w>for</w>
+<w>about</w>
+<w>an</w>
+<w>hour</w>
+<w>leaving</w>
+<w>them</w>
+<w>at</w>
+<w>During</w>
+<w>this</w>
+<w>time</w>
+<w>they</w>
+<w>saw</w>
+<w>the</w>
+<w>switch</w>
+<w>knife</w>
+<w>They</w>
+<w>identified</w>
+<w>the</w>
+<w>death</w>
+<w>weapon</w>
+<w>in</w>
+<w>court</w>
+<w>as</w>
+<w>that</w>
+<w>very</w>
+<w>same</w>
+<w>knife</w>
+<media start="924.0900" end="926.8830" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>Five</w>
+<w>Ηe</w>
+<w>arrived</w>
+<w>home</w>
+<w>at</w>
+<w>about</w>
+<w>Now</w>
+<w>this</w>
+<w>is</w>
+<w>where</w>
+<w>the</w>
+<w>stories</w>
+<w>offered</w>
+<w>by</w>
+<w>the</w>
+<w>State</w>
+<w>and</w>
+<w>the</w>
+<w>boy</w>
+<w>begin</w>
+<w>to</w>
+<w>diverge</w>
+<w>slightly</w>
+<w>He</w>
+<w>claims</w>
+<w>that</w>
+<w>he</w>
+<w>went</w>
+<w>to</w>
+<w>a</w>
+<w>movie</w>
+<w>at</w>
+<w>about</w>
+<w>returning</w>
+<w>home</w>
+<w>at</w>
+<w>to</w>
+<w>find</w>
+<w>his</w>
+<w>father</w>
+<w>dead</w>
+<w>and</w>
+<w>himself</w>
+<w>arrested</w>
+<w>He</w>
+<w>also</w>
+<w>claims</w>
+<w>that</w>
+<w>the</w>
+<w>two</w>
+<w>detectives</w>
+<w>who</w>
+<w>arrested</w>
+<w>him</w>
+<w>threw</w>
+<w>him</w>
+<w>down</w>
+<w>a</w>
+<w>half</w>
+<w>a</w>
+<w>flight</w>
+<w>of</w>
+<w>stairs</w>
+<w>Now</w>
+<w>what</w>
+<w>happened</w>
+<w>to</w>
+<w>the</w>
+<w>switch</w>
+<w>knife</w>
+<media start="944.6100" end="947.2370" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>He</w>
+<w>claims</w>
+<w>that</w>
+<w>it</w>
+<w>fell</w>
+<w>through</w>
+<w>a</w>
+<w>hole</w>
+<w>in</w>
+<w>his</w>
+<w>pocket</w>
+<w>on</w>
+<w>the</w>
+<w>way</w>
+<w>to</w>
+<w>the</w>
+<w>movies</w>
+<w>sometime</w>
+<w>between</w>
+<w>and</w>
+<w>and</w>
+<w>that</w>
+<w>he</w>
+<w>never</w>
+<w>saw</w>
+<w>it</w>
+<w>again</w>
+<w>Now</w>
+<w>there's</w>
+<w>a</w>
+<w>tale</w>
+<w>gentlemen</w>
+<w>I</w>
+<w>think</w>
+<w>it's</w>
+<w>quite</w>
+<w>clear</w>
+<w>that</w>
+<w>the</w>
+<w>boy</w>
+<w>never</w>
+<w>went</w>
+<w>to</w>
+<w>the</w>
+<w>movies</w>
+<w>that</w>
+<w>night</w>
+<w>No</w>
+<w>one</w>
+<w>in</w>
+<w>the</w>
+<w>house</w>
+<w>saw</w>
+<w>him</w>
+<w>go</w>
+<w>out</w>
+<w>at</w>
+<w>No</w>
+<w>one</w>
+<w>at</w>
+<w>the</w>
+<w>theater</w>
+<w>identified</w>
+<w>him</w>
+<w>He</w>
+<w>couldn't</w>
+<w>even</w>
+<w>remember</w>
+<w>the</w>
+<w>names</w>
+<w>of</w>
+<w>the</w>
+<w>pictures</w>
+<w>he</w>
+<w>saw</w>
+<w>The</w>
+<w>boy</w>
+<w>stayed</w>
+<w>home</w>
+<w>had</w>
+<w>another</w>
+<w>fight</w>
+<w>with</w>
+<w>his</w>
+<w>father</w>
+<w>stabbed</w>
+<w>him</w>
+<w>to</w>
+<w>death</w>
+<w>and</w>
+<w>left</w>
+<w>the</w>
+<w>house</w>
+<w>at</w>
+<w>minutes</w>
+<w>after</w>
+<w>He</w>
+<w>even</w>
+<w>remembered</w>
+<w>to</w>
+<w>wipe</w>
+<w>the</w>
+<w>knife</w>
+<w>clean</w>
+<w>of</w>
+<w>fingerprints</w>
+<media start="978.2270" end="980.8540" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>Now</w>
+<w>are</w>
+<w>you</w>
+<w>trying</w>
+<w>to</w>
+<w>tell</w>
+<w>me</w>
+<w>that</w>
+<w>this</w>
+<w>knife</w>
+<w>really</w>
+<w>fell</w>
+<w>through</w>
+<w>a</w>
+<w>hole</w>
+<w>in</w>
+<w>the</w>
+<w>boy's</w>
+<w>pocket</w>
+<w>someone</w>
+<w>picked</w>
+<w>it</w>
+<w>up</w>
+<w>off</w>
+<w>the</w>
+<w>street</w>
+<w>went</w>
+<w>to</w>
+<w>the</w>
+<w>boy's</w>
+<w>house</w>
+<w>and</w>
+<w>stabbed</w>
+<w>his</w>
+<w>father</w>
+<w>with</w>
+<w>it</w>
+<w>just</w>
+<w>to</w>
+<w>test</w>
+<w>its</w>
+<w>sharpness</w>
+<media start="988.1540" end="990.1550" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>No</w>
+<w>I'm</w>
+<w>just</w>
+<w>saying</w>
+<w>it's</w>
+<w>possible</w>
+<w>the</w>
+<w>boy</w>
+<w>lost</w>
+<w>his</w>
+<w>knife</w>
+<media start="990.2390" end="992.4490" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>and</w>
+<w>that</w>
+<w>somebody</w>
+<w>else</w>
+<w>stabbed</w>
+<w>his</w>
+<w>father</w>
+<w>with</w>
+<w>a</w>
+<w>similar</w>
+<w>knife</w>
+<media start="992.5330" end="993.7420" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>It's</w>
+<w>just</w>
+<w>possible</w>
+<media start="993.8260" end="995.4100" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>Take</w>
+<w>a</w>
+<w>look</w>
+<w>at</w>
+<w>this</w>
+<w>knife</w>
+<w>It's</w>
+<w>a</w>
+<w>very</w>
+<w>unusual</w>
+<w>knife</w>
+<w>I've</w>
+<w>never</w>
+<w>seen</w>
+<w>one</w>
+<w>like</w>
+<w>it</w>
+<w>Neither</w>
+<w>had</w>
+<w>the</w>
+<w>storekeeper</w>
+<w>who</w>
+<w>sold</w>
+<w>it</w>
+<w>to</w>
+<w>the</w>
+<w>boy</w>
+<w>Aren't</w>
+<w>you</w>
+<w>asking</w>
+<w>us</w>
+<w>to</w>
+<w>accept</w>
+<w>a</w>
+<w>pretty</w>
+<w>incredible</w>
+<w>coincidence</w>
+<media start="1007.1730" end="1009.5070" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I'm</w>
+<w>just</w>
+<w>saying</w>
+<w>a</w>
+<w>coincidence</w>
+<w>is</w>
+<w>possible</w>
+<media start="1009.5920" end="1011.0920" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>And</w>
+<w>I</w>
+<w>say</w>
+<w>it's</w>
+<w>not</w>
+<w>possible</w>
+<media start="1017.7250" end="1019.4340" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Where</w>
+<w>did</w>
+<w>that</w>
+<w>come</w>
+<w>from</w>
+<media start="1019.5180" end="1020.8940" unit="s"/>
+</u>
+
+<u who="Juror 2" uID="#2">
+<w>Where'd</w>
+<w>you</w>
+<w>get</w>
+<w>that</w>
+<media start="1020.9780" end="1022.4790" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>What</w>
+<w>do</w>
+<w>you</w>
+<w>think</w>
+<w>you're</w>
+<w>doing</w>
+<media start="1022.5630" end="1024.1890" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Where</w>
+<w>did</w>
+<w>you</w>
+<w>get</w>
+<w>it</w>
+<media start="1024.2730" end="1026.5240" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>went</w>
+<w>out</w>
+<w>walking</w>
+<w>for</w>
+<w>a</w>
+<w>couple</w>
+<w>of</w>
+<w>hours</w>
+<w>last</w>
+<w>night</w>
+<w>I</w>
+<w>walked</w>
+<w>through</w>
+<w>the</w>
+<w>boy's</w>
+<w>neighborhood</w>
+<w>I</w>
+<w>bought</w>
+<w>that</w>
+<w>at</w>
+<w>a</w>
+<w>little</w>
+<w>pawnshop</w>
+<w>just</w>
+<w>two</w>
+<w>blocks</w>
+<w>from</w>
+<w>the</w>
+<w>boy's</w>
+<w>house</w>
+<w>It</w>
+<w>cost</w>
+<w>six</w>
+<w>dollars</w>
+<media start="1033.3240" end="1036.4510" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>It's</w>
+<w>against</w>
+<w>the</w>
+<w>law</w>
+<w>to</w>
+<w>buy</w>
+<w>or</w>
+<w>sell</w>
+<w>switchblade</w>
+<w>knives</w>
+<media start="1036.5350" end="1038.7870" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>That's</w>
+<w>right</w>
+<w>I</w>
+<w>broke</w>
+<w>the</w>
+<w>law</w>
+<media start="1038.8710" end="1042.8740" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Listen</w>
+<w>you</w>
+<w>pulled</w>
+<w>a</w>
+<w>real</w>
+<w>bright</w>
+<w>trick</w>
+<w>Now</w>
+<w>supposing</w>
+<w>you</w>
+<w>tell</w>
+<w>me</w>
+<w>what</w>
+<w>it</w>
+<w>proves</w>
+<media start="1042.9580" end="1045.0430" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Maybe</w>
+<w>there</w>
+<w>are</w>
+<w>knives</w>
+<w>like</w>
+<w>that</w>
+<w>So</w>
+<w>what</w>
+<media start="1045.1270" end="1047.9210" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Maybe</w>
+<w>there</w>
+<w>are</w>
+<w>Well</w>
+<w>what</w>
+<w>does</w>
+<w>it</w>
+<w>mean</w>
+<media start="1048.0050" end="1051.2990" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>You</w>
+<w>found</w>
+<w>another</w>
+<w>knife</w>
+<w>like</w>
+<w>it</w>
+<w>What's</w>
+<w>that</w>
+<w>the</w>
+<w>discovery</w>
+<w>of</w>
+<w>the</w>
+<w>age</w>
+<w>or</w>
+<w>something</w>
+<media start="1051.3840" end="1053.7180" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>You</w>
+<w>mean</w>
+<w>you're</w>
+<w>asking</w>
+<w>us</w>
+<w>to</w>
+<w>believe</w>
+<w>that</w>
+<w>somebody</w>
+<w>else</w>
+<w>did</w>
+<w>the</w>
+<w>stabbing</w>
+<w>with</w>
+<w>exactly</w>
+<w>the</w>
+<w>same</w>
+<w>kind</w>
+<w>of</w>
+<w>knife</w>
+<media start="1055.6790" end="1056.9300" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>The</w>
+<w>odds</w>
+<w>are</w>
+<w>a</w>
+<w>million</w>
+<w>to</w>
+<w>one</w>
+<media start="1057.0140" end="1059.7240" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>It's</w>
+<w>possible</w>
+<media start="1060.9350" end="1062.9360" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Okay</w>
+<w>fellas</w>
+<w>let's</w>
+<w>take</w>
+<w>our</w>
+<w>seats</w>
+<w>There's</w>
+<w>no</w>
+<w>point</w>
+<w>in</w>
+<w>standing</w>
+<w>around</w>
+<w>all</w>
+<w>over</w>
+<w>the</w>
+<w>place</w>
+<media start="1066.6900" end="1070.1100" unit="s"/>
+</u>
+
+<u who="Juror 2" uID="#2">
+<w>You</w>
+<w>know</w>
+<w>it's</w>
+<w>interesting</w>
+<w>that</w>
+<w>he'd</w>
+<w>find</w>
+<w>a</w>
+<w>knife</w>
+<w>exactly</w>
+<w>like</w>
+<w>the</w>
+<w>one</w>
+<w>the</w>
+<w>boy</w>
+<w>bought</w>
+<media start="1070.1940" end="1072.9460" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>What's</w>
+<w>interesting</w>
+<w>about</w>
+<w>it</w>
+<w>Interesting</w>
+<media start="1073.0300" end="1074.9060" unit="s"/>
+</u>
+
+<u who="Juror 2" uID="#2">
+<w>Well</w>
+<w>I</w>
+<w>don't</w>
+<w>know</w>
+<w>I</w>
+<w>just</w>
+<w>thought</w>
+<w>it</w>
+<w>was</w>
+<w>interesting</w>
+<media start="1074.9900" end="1076.7830" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>There</w>
+<w>are</w>
+<w>still</w>
+<w>of</w>
+<w>us</w>
+<w>here</w>
+<w>who</w>
+<w>think</w>
+<w>he's</w>
+<w>guilty</w>
+<media start="1076.8670" end="1079.1600" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Right</w>
+<w>What</w>
+<w>do</w>
+<w>you</w>
+<w>think</w>
+<w>you're</w>
+<w>gonna</w>
+<w>accomplish</w>
+<media start="1079.2450" end="1081.0790" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>You're</w>
+<w>not</w>
+<w>gonna</w>
+<w>change</w>
+<w>anybody's</w>
+<w>mind</w>
+<media start="1081.1630" end="1083.5400" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>So</w>
+<w>if</w>
+<w>you</w>
+<w>wanna</w>
+<w>be</w>
+<w>stubborn</w>
+<w>and</w>
+<w>hang</w>
+<w>this</w>
+<w>jury</w>
+<w>go</w>
+<w>ahead</w>
+<media start="1083.6240" end="1086.6680" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>The</w>
+<w>kid</w>
+<w>will</w>
+<w>be</w>
+<w>tried</w>
+<w>again</w>
+<w>and</w>
+<w>found</w>
+<w>guilty</w>
+<w>sure</w>
+<w>as</w>
+<w>he's</w>
+<w>born</w>
+<media start="1088.2120" end="1090.0880" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>That's</w>
+<w>probably</w>
+<w>right</w>
+<media start="1090.1720" end="1093.3830" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>So</w>
+<w>what</w>
+<w>are</w>
+<w>you</w>
+<w>gonna</w>
+<w>do</w>
+<w>You</w>
+<w>know</w>
+<w>we</w>
+<w>could</w>
+<w>be</w>
+<w>here</w>
+<w>all</w>
+<w>night</w>
+<media start="1093.4670" end="1096.7190" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>It's</w>
+<w>only</w>
+<w>one</w>
+<w>night</w>
+<w>A</w>
+<w>boy</w>
+<w>may</w>
+<w>die</w>
+<media start="1096.8040" end="1099.3470" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Well</w>
+<w>why</w>
+<w>don't</w>
+<w>we</w>
+<w>just</w>
+<w>set</w>
+<w>up</w>
+<w>house</w>
+<w>here</w>
+<w>huh</w>
+<media start="1099.4320" end="1101.8910" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Someone</w>
+<w>send</w>
+<w>for</w>
+<w>Potsy</w>
+<w>the</w>
+<w>policeman</w>
+<w>and</w>
+<w>get</w>
+<w>a</w>
+<w>pinochle</w>
+<w>deck</w>
+<media start="1105.9800" end="1109.0230" unit="s"/>
+</u>
+
+<u who="Juror 2" uID="#2">
+<w>I</w>
+<w>don't</w>
+<w>think</w>
+<w>he</w>
+<w>ought</w>
+<w>to</w>
+<w>joke</w>
+<w>about</w>
+<w>it</w>
+<media start="1109.1080" end="1112.7770" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Oh</w>
+<w>listen!</w>
+<w>I</w>
+<w>don't</w>
+<w>see</w>
+<w>what</w>
+<w>all</w>
+<w>this</w>
+<w>stuff</w>
+<w>about</w>
+<w>the</w>
+<w>knife's</w>
+<w>got</w>
+<w>to</w>
+<w>do</w>
+<w>with</w>
+<w>anything</w>
+<media start="1112.8620" end="1115.7800" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Somebody</w>
+<w>saw</w>
+<w>the</w>
+<w>kid</w>
+<w>stab</w>
+<w>his</w>
+<w>father</w>
+<w>What</w>
+<w>more</w>
+<w>do</w>
+<w>we</w>
+<w>need</w>
+<media start="1115.8650" end="1118.6580" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>You</w>
+<w>guys</w>
+<w>can</w>
+<w>talk</w>
+<w>the</w>
+<w>ears</w>
+<w>right</w>
+<w>off</w>
+<w>my</w>
+<w>head</w>
+<w>You</w>
+<w>know</w>
+<w>what</w>
+<w>I</w>
+<w>mean</w>
+<media start="1118.7420" end="1121.4530" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>I</w>
+<w>got</w>
+<w>three</w>
+<w>garages</w>
+<w>of</w>
+<w>mine</w>
+<w>goin'</w>
+<w>to</w>
+<w>pot</w>
+<w>while</w>
+<w>you're</w>
+<w>talking</w>
+<media start="1121.5370" end="1123.2040" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>So</w>
+<w>let's</w>
+<w>get</w>
+<w>done</w>
+<w>and</w>
+<w>get</w>
+<w>outta</w>
+<w>here</w>
+<media start="1123.2890" end="1126.7080" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>The</w>
+<w>knife</w>
+<w>was</w>
+<w>very</w>
+<w>important</w>
+<w>to</w>
+<w>the</w>
+<w>district</w>
+<w>attorney</w>
+<w>He</w>
+<w>spent</w>
+<w>a</w>
+<w>whole</w>
+<w>day</w>
+<media start="1126.7920" end="1129.2520" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>He's</w>
+<w>a</w>
+<w>15th</w>
+<w>assistant</w>
+<w>or</w>
+<w>something</w>
+<w>What</w>
+<w>does</w>
+<w>he</w>
+<w>know</w>
+<w>about</w>
+<w>it</w>
+<media start="1129.3360" end="1130.7950" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Hey</w>
+<w>let's</w>
+<w>hold</w>
+<w>it</w>
+<w>down</w>
+<w>These</w>
+<w>side</w>
+<w>arguments</w>
+<w>are</w>
+<w>only</w>
+<w>slowing</w>
+<w>us</w>
+<w>up</w>
+<w>Well</w>
+<w>what</w>
+<w>about</w>
+<w>it</w>
+<media start="1137.5530" end="1139.0530" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>You're</w>
+<w>the</w>
+<w>only</w>
+<w>one</w>
+<media start="1146.9790" end="1149.0220" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>have</w>
+<w>a</w>
+<w>proposition</w>
+<w>to</w>
+<w>make</w>
+<w>to</w>
+<w>all</w>
+<w>of</w>
+<w>you</w>
+<w>I'm</w>
+<w>gonna</w>
+<w>call</w>
+<w>for</w>
+<w>another</w>
+<w>vote</w>
+<w>I</w>
+<w>want</w>
+<w>you</w>
+<w>men</w>
+<w>to</w>
+<w>vote</w>
+<w>I'll</w>
+<w>abstain</w>
+<w>by</w>
+<w>secret</w>
+<w>written</w>
+<w>ballot</w>
+<w>If</w>
+<w>there</w>
+<w>are</w>
+<w>votes</w>
+<w>for</w>
+<w>guilty</w>
+<w>I</w>
+<w>won't</w>
+<w>stand</w>
+<w>alone</w>
+<w>We'll</w>
+<w>take</w>
+<w>in</w>
+<w>a</w>
+<w>guilty</w>
+<w>verdict</w>
+<w>to</w>
+<w>the</w>
+<w>judge</w>
+<w>right</w>
+<w>now</w>
+<w>But</w>
+<w>if</w>
+<w>anyone</w>
+<w>votes</w>
+<w>not</w>
+<w>guilty</w>
+<w>we</w>
+<w>stay</w>
+<w>here</w>
+<w>and</w>
+<w>talk</w>
+<w>it</w>
+<w>out</w>
+<media start="1175.9250" end="1178.8430" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Well</w>
+<w>that's</w>
+<w>it</w>
+<w>If</w>
+<w>you</w>
+<w>want</w>
+<w>to</w>
+<w>try</w>
+<w>it</w>
+<w>I'm</w>
+<w>ready</w>
+<media start="1178.9280" end="1180.3860" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>All</w>
+<w>right</w>
+<w>Let's</w>
+<w>do</w>
+<w>it</w>
+<w>the</w>
+<w>hard</w>
+<w>way</w>
+<media start="1180.4710" end="1182.3880" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Okay</w>
+<w>that</w>
+<w>sounds</w>
+<w>fair</w>
+<w>Everyone</w>
+<w>agreed</w>
+<w>Anyone</w>
+<w>doesn't</w>
+<w>agree</w>
+<w>Fine</w>
+<w>fine</w>
+<w>Let's</w>
+<w>go</w>
+<media start="1184.6420" end="1185.6830" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Here</w>
+<w>pass</w>
+<w>these</w>
+<w>along</w>
+<media start="1185.7680" end="1187.5190" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Is</w>
+<w>that</w>
+<w>the</w>
+<w>right</w>
+<w>time</w>
+<media start="1219.5930" end="1245.4100" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Guilty</w>
+<media start="1249.4980" end="1252.1250" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Not</w>
+<w>guilty</w>
+<media start="1252.2090" end="1253.6260" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Guilty</w>
+<media start="1253.7110" end="1255.3780" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Boy</w>
+<w>how</w>
+<w>do</w>
+<w>you</w>
+<w>like</w>
+<w>that</w>
+<media start="1255.4620" end="1257.9220" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Oh</w>
+<w>and</w>
+<w>another</w>
+<w>chap</w>
+<w>flaps</w>
+<w>his</w>
+<w>wings</w>
+<media start="1258.0070" end="1260.7580" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>All</w>
+<w>right</w>
+<w>who</w>
+<w>was</w>
+<w>it</w>
+<w>Come</w>
+<w>on</w>
+<w>I</w>
+<w>want</w>
+<w>to</w>
+<w>know</w>
+<media start="1260.8430" end="1263.0940" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>Excuse</w>
+<w>me</w>
+<w>This</w>
+<w>was</w>
+<w>a</w>
+<w>secret</w>
+<w>ballot</w>
+<media start="1263.1780" end="1264.7210" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>We</w>
+<w>all</w>
+<w>agreed</w>
+<w>on</w>
+<w>that</w>
+<w>no</w>
+<media start="1264.8050" end="1266.9310" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>If</w>
+<w>the</w>
+<w>gentleman</w>
+<w>wanted</w>
+<w>to</w>
+<w>remain</w>
+<w>secret</w>
+<media start="1267.0160" end="1268.8910" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Secret</w>
+<w>What</w>
+<w>do</w>
+<w>you</w>
+<w>mean</w>
+<w>secret</w>
+<media start="1268.9760" end="1272.1860" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>There</w>
+<w>are</w>
+<w>no</w>
+<w>secrets</w>
+<w>in</w>
+<w>a</w>
+<w>jury</w>
+<w>room</w>
+<w>I</w>
+<w>know</w>
+<w>who</w>
+<w>it</w>
+<w>was</w>
+<media start="1272.9380" end="1274.8560" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Brother</w>
+<w>you</w>
+<w>really</w>
+<w>are</w>
+<w>something</w>
+<media start="1274.9400" end="1276.9410" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>You</w>
+<w>sit</w>
+<w>here</w>
+<w>vote</w>
+<w>guilty</w>
+<w>like</w>
+<w>the</w>
+<w>rest</w>
+<w>of</w>
+<w>us</w>
+<media start="1277.0260" end="1280.3200" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>and</w>
+<w>then</w>
+<w>some</w>
+<w>golden</w>
+<w>voiced</w>
+<w>preacher</w>
+<w>starts</w>
+<w>tearin'</w>
+<w>your</w>
+<w>poor</w>
+<w>heart</w>
+<w>out</w>
+<media start="1280.4040" end="1283.6980" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>about</w>
+<w>some</w>
+<w>underprivileged</w>
+<w>kid</w>
+<w>just</w>
+<w>couldn't</w>
+<w>help</w>
+<w>becomin'</w>
+<w>a</w>
+<w>murderer</w>
+<media start="1283.7820" end="1285.2830" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>and</w>
+<w>you</w>
+<w>change</w>
+<w>your</w>
+<w>vote</w>
+<media start="1285.3670" end="1287.4930" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>If</w>
+<w>that</w>
+<w>isn't</w>
+<w>the</w>
+<w>most</w>
+<w>sick</w>
+<media start="1287.5780" end="1291.2470" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Why</w>
+<w>don't</w>
+<w>you</w>
+<w>drop</w>
+<w>a</w>
+<w>quarter</w>
+<w>in</w>
+<w>his</w>
+<w>collection</w>
+<w>box</w>
+<media start="1291.3320" end="1293.2910" unit="s"/>
+</u>
+
+<u who="Juror 5" uID="#5">
+<w>Oh</w>
+<w>now</w>
+<w>just</w>
+<w>wait</w>
+<w>a</w>
+<w>minute</w>
+<media start="1293.3750" end="1294.9590" unit="s"/>
+</u>
+
+<u who="Juror 5" uID="#5">
+<w>Listen</w>
+<w>you</w>
+<w>can't</w>
+<w>talk</w>
+<w>to</w>
+<w>me</w>
+<w>like</w>
+<w>that</w>
+<media start="1295.0440" end="1296.8780" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>No</w>
+<w>Who</w>
+<w>do</w>
+<w>you</w>
+<w>think</w>
+<w>you</w>
+<w>are</w>
+<media start="1296.9620" end="1299.2970" unit="s"/>
+</u>
+
+<u who="Juror 5" uID="#5">
+<w>No</w>
+<w>Who</w>
+<w>does</w>
+<w>he</w>
+<w>think</w>
+<w>he</w>
+<w>is</w>
+<w>Did</w>
+<w>you</w>
+<w>hear</w>
+<w>him</w>
+<media start="1299.3810" end="1302.8420" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>It</w>
+<w>doesn't</w>
+<w>matter</w>
+<w>He's</w>
+<w>very</w>
+<w>excitable</w>
+<w>Sit</w>
+<w>down</w>
+<w>Excitable</w>
+<w>You</w>
+<w>bet</w>
+<w>I'm</w>
+<w>excitable!</w>
+<media start="1302.9260" end="1305.7620" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>We're</w>
+<w>trying</w>
+<w>to</w>
+<w>put</w>
+<w>a</w>
+<w>guilty</w>
+<w>man</w>
+<w>in</w>
+<w>the</w>
+<w>chair</w>
+<w>where</w>
+<w>he</w>
+<w>belongs!</w>
+<media start="1305.8460" end="1308.5140" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Someone</w>
+<w>starts</w>
+<w>telling</w>
+<w>us</w>
+<w>fairy</w>
+<w>tales</w>
+<w>and</w>
+<w>we're</w>
+<w>listenin'!</w>
+<media start="1310.4340" end="1312.3520" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>What</w>
+<w>made</w>
+<w>you</w>
+<w>change</w>
+<w>your</w>
+<w>vote</w>
+<media start="1312.4360" end="1314.0620" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>He</w>
+<w>didn't</w>
+<w>change</w>
+<w>his</w>
+<w>vote</w>
+<media start="1314.1460" end="1315.3130" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>I</w>
+<w>did</w>
+<media start="1315.3970" end="1317.3570" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Oh</w>
+<w>fine</w>
+<media start="1317.4410" end="1319.4000" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>Would</w>
+<w>you</w>
+<w>like</w>
+<w>me</w>
+<w>to</w>
+<w>tell</w>
+<w>you</w>
+<w>why</w>
+<media start="1319.4850" end="1321.3610" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>No</w>
+<w>I</w>
+<w>wouldn't</w>
+<w>like</w>
+<w>you</w>
+<w>to</w>
+<w>tell</w>
+<w>me</w>
+<w>why</w>
+<media start="1321.4450" end="1323.9880" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>I'd</w>
+<w>like</w>
+<w>to</w>
+<w>make</w>
+<w>it</w>
+<w>clear</w>
+<w>anyway</w>
+<w>if</w>
+<w>you</w>
+<w>don't</w>
+<w>mind</w>
+<media start="1324.0730" end="1325.5730" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Do</w>
+<w>we</w>
+<w>have</w>
+<w>to</w>
+<w>listen</w>
+<w>to</w>
+<w>this</w>
+<media start="1325.6580" end="1327.4080" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>The</w>
+<w>man</w>
+<w>wants</w>
+<w>to</w>
+<w>talk</w>
+<media start="1327.4930" end="1329.0770" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>Thank</w>
+<w>you</w>
+<media start="1329.1610" end="1332.4970" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>This</w>
+<w>gentleman</w>
+<w>has</w>
+<w>been</w>
+<w>standing</w>
+<w>alone</w>
+<w>against</w>
+<w>us</w>
+<media start="1332.5810" end="1334.8320" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>Now</w>
+<w>he</w>
+<w>doesn't</w>
+<w>say</w>
+<w>the</w>
+<w>boy</w>
+<w>is</w>
+<w>not</w>
+<w>guilty</w>
+<media start="1334.9170" end="1336.8760" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>He</w>
+<w>just</w>
+<w>isn't</w>
+<w>sure</w>
+<media start="1336.9600" end="1339.7960" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>Well</w>
+<w>it's</w>
+<w>not</w>
+<w>easy</w>
+<w>to</w>
+<w>stand</w>
+<w>alone</w>
+<w>against</w>
+<w>the</w>
+<w>ridicule</w>
+<w>of</w>
+<w>others</w>
+<media start="1339.8800" end="1343.0070" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>So</w>
+<w>he</w>
+<w>gambled</w>
+<w>for</w>
+<w>support</w>
+<w>and</w>
+<w>I</w>
+<w>gave</w>
+<w>it</w>
+<w>to</w>
+<w>him</w>
+<media start="1343.0920" end="1344.8010" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>I</w>
+<w>respect</w>
+<w>his</w>
+<w>motives</w>
+<media start="1344.8850" end="1349.4300" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>The</w>
+<w>boy</w>
+<w>on</w>
+<w>trial</w>
+<w>is</w>
+<w>probably</w>
+<w>guilty</w>
+<w>but</w>
+<w>uh</w>
+<w>I</w>
+<w>want</w>
+<w>to</w>
+<w>hear</w>
+<w>more</w>
+<media start="1349.5150" end="1351.3070" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>Right</w>
+<w>now</w>
+<w>the</w>
+<w>vote</w>
+<w>is</w>
+<w>to</w>
+<w>two</w>
+<media start="1351.3920" end="1353.6430" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>I'm</w>
+<w>talking</w>
+<w>here!</w>
+<w>You</w>
+<w>have</w>
+<w>no</w>
+<w>right</w>
+<w>to</w>
+<w>leave</w>
+<w>this</w>
+<w>room!</w>
+<media start="1353.7270" end="1355.6030" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>He</w>
+<w>can't</w>
+<w>hear</w>
+<w>you</w>
+<w>He</w>
+<w>never</w>
+<w>will</w>
+<media start="1355.6880" end="1357.2710" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Let's</w>
+<w>sit</w>
+<w>down</w>
+<media start="1361.4430" end="1363.6530" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>Shall</w>
+<w>we</w>
+<w>continue</w>
+<media start="1363.7370" end="1365.9470" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Well</w>
+<w>I</w>
+<w>I</w>
+<w>think</w>
+<w>we</w>
+<w>ought</w>
+<w>to</w>
+<w>take</w>
+<w>a</w>
+<w>break</w>
+<media start="1366.0310" end="1370.1590" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>You</w>
+<w>know</w>
+<w>one</w>
+<w>man's</w>
+<w>inside</w>
+<w>and</w>
+<w>I</w>
+<w>think</w>
+<w>we</w>
+<w>ought</w>
+<w>to</w>
+<w>wait</w>
+<w>for</w>
+<w>him</w>
+<media start="1373.2880" end="1375.0390" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Looks</w>
+<w>like</w>
+<w>we're</w>
+<w>really</w>
+<w>hung</w>
+<w>up</w>
+<w>here</w>
+<w>huh</w>
+<media start="1376.4170" end="1378.7510" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>And</w>
+<w>that</w>
+<w>thing</w>
+<w>with</w>
+<w>the</w>
+<w>old</w>
+<w>man</w>
+<w>that</w>
+<w>was</w>
+<w>pretty</w>
+<w>unexpected</w>
+<media start="1380.8380" end="1383.2970" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>I</w>
+<w>wish</w>
+<w>I</w>
+<w>could</w>
+<w>figure</w>
+<w>out</w>
+<w>some</w>
+<w>way</w>
+<w>we</w>
+<w>could</w>
+<w>break</w>
+<w>it</w>
+<w>up</w>
+<media start="1386.4270" end="1389.8870" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>You</w>
+<w>know</w>
+<w>in</w>
+<w>advertising</w>
+<w>I</w>
+<w>told</w>
+<w>you</w>
+<w>I</w>
+<w>worked</w>
+<w>in</w>
+<w>an</w>
+<w>agency</w>
+<media start="1389.9720" end="1390.9720" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Mm</w>
+<w>hmm</w>
+<media start="1391.0560" end="1393.0570" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Well</w>
+<w>there's</w>
+<w>some</w>
+<w>pretty</w>
+<w>strange</w>
+<w>people</w>
+<w>working</w>
+<w>there</w>
+<media start="1393.1420" end="1395.2260" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Well</w>
+<w>they're</w>
+<w>not</w>
+<w>strange</w>
+<w>really</w>
+<w>I</w>
+<w>guess</w>
+<media start="1395.3100" end="1397.9370" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>It's</w>
+<w>just</w>
+<w>that</w>
+<w>they</w>
+<w>have</w>
+<w>peculiar</w>
+<w>ways</w>
+<w>of</w>
+<w>expressing</w>
+<w>themselves</w>
+<media start="1398.0210" end="1399.2720" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>You</w>
+<w>know</w>
+<w>what</w>
+<w>I</w>
+<w>mean</w>
+<media start="1399.3560" end="1401.5660" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Of</w>
+<w>course</w>
+<w>I</w>
+<w>suppose</w>
+<w>it's</w>
+<w>the</w>
+<w>same</w>
+<w>in</w>
+<w>your</w>
+<w>business</w>
+<w>too</w>
+<w>huh</w>
+<media start="1402.3170" end="1403.8180" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>What</w>
+<w>do</w>
+<w>you</w>
+<w>do</w>
+<media start="1403.9020" end="1406.0700" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>I'm</w>
+<w>a</w>
+<w>watchmaker</w>
+<media start="1406.1550" end="1409.3650" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Well</w>
+<w>I</w>
+<w>imagine</w>
+<w>the</w>
+<w>finest</w>
+<w>watchmakers</w>
+<w>in</w>
+<w>the</w>
+<w>world</w>
+<w>come</w>
+<w>from</w>
+<w>Europe</w>
+<w>huh</w>
+<media start="1409.4500" end="1412.4520" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Anyway</w>
+<w>as</w>
+<w>I</w>
+<w>was</w>
+<w>telling</w>
+<w>you</w>
+<w>in</w>
+<w>an</w>
+<w>agency</w>
+<w>when</w>
+<w>we</w>
+<w>reach</w>
+<w>a</w>
+<w>point</w>
+<w>like</w>
+<w>this</w>
+<media start="1412.5360" end="1416.0380" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>I'm</w>
+<w>telling</w>
+<w>him</w>
+<w>about</w>
+<w>in</w>
+<w>an</w>
+<w>ad</w>
+<w>agency</w>
+<w>when</w>
+<w>a</w>
+<w>point</w>
+<w>like</w>
+<w>this</w>
+<w>is</w>
+<w>reached</w>
+<w>in</w>
+<w>a</w>
+<w>meeting</w>
+<media start="1416.1230" end="1418.7500" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>there's</w>
+<w>always</w>
+<w>some</w>
+<w>character</w>
+<w>ready</w>
+<w>with</w>
+<w>an</w>
+<w>idea</w>
+<w>see</w>
+<media start="1418.8340" end="1420.7930" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>And</w>
+<w>it</w>
+<w>kills</w>
+<w>me</w>
+<media start="1420.8780" end="1422.3780" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>It's</w>
+<w>the</w>
+<w>weirdest</w>
+<w>thing</w>
+<w>in</w>
+<w>the</w>
+<w>world</w>
+<media start="1422.4630" end="1425.7980" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>the</w>
+<w>way</w>
+<w>they</w>
+<w>sometimes</w>
+<w>precede</w>
+<w>their</w>
+<w>idea</w>
+<w>with</w>
+<w>a</w>
+<w>little</w>
+<w>phrase</w>
+<w>see</w>
+<w>like</w>
+<media start="1425.8830" end="1428.8010" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Some</w>
+<w>account</w>
+<w>exec</w>
+<w>will</w>
+<w>get</w>
+<w>up</w>
+<w>and</w>
+<w>he'll</w>
+<w>say</w>
+<w>uh</w>
+<media start="1428.8860" end="1430.7200" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Okay</w>
+<w>here's</w>
+<w>an</w>
+<w>idea</w>
+<media start="1430.8040" end="1434.4320" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Let's</w>
+<w>uh</w>
+<w>run</w>
+<w>it</w>
+<w>up</w>
+<w>the</w>
+<w>flagpole</w>
+<w>and</w>
+<w>see</w>
+<w>if</w>
+<w>anyone</w>
+<w>salutes</w>
+<w>it</w>
+<media start="1434.5160" end="1437.6430" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>I</w>
+<w>mean</w>
+<w>it's</w>
+<w>idiotic</w>
+<w>but</w>
+<w>it's</w>
+<w>funny</w>
+<w>huh</w>
+<media start="1437.7280" end="1442.2310" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>I</w>
+<w>uh</w>
+<w>I</w>
+<w>got</w>
+<w>a</w>
+<w>little</w>
+<w>excited</w>
+<w>back</w>
+<w>there</w>
+<w>I</w>
+<media start="1443.2330" end="1444.9840" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>didn't</w>
+<w>mean</w>
+<w>to</w>
+<w>get</w>
+<w>nasty</w>
+<media start="1478.7690" end="1480.9780" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Hey</w>
+<w>you</w>
+<w>a</w>
+<w>salesman</w>
+<media start="1481.0630" end="1482.5630" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I'm</w>
+<w>an</w>
+<w>architect</w>
+<media start="1483.3980" end="1484.7320" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Hmm</w>
+<media start="1484.8170" end="1487.0680" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>You</w>
+<w>know</w>
+<w>what</w>
+<w>the</w>
+<w>soft</w>
+<w>sell</w>
+<w>is</w>
+<media start="1489.9880" end="1491.9060" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Boy</w>
+<w>you</w>
+<w>got</w>
+<w>it</w>
+<w>Believe</w>
+<w>me</w>
+<media start="1493.5750" end="1495.2840" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>I</w>
+<w>got</w>
+<w>a</w>
+<w>different</w>
+<w>technique</w>
+<media start="1496.0780" end="1497.8700" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Laughs</w>
+<w>drinks</w>
+<w>jokes</w>
+<media start="1497.9550" end="1500.2060" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Tricks</w>
+<w>You</w>
+<w>know</w>
+<media start="1501.0410" end="1502.2500" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Yeah</w>
+<media start="1503.7100" end="1505.9200" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Hit</w>
+<w>'em</w>
+<w>where</w>
+<w>they</w>
+<w>live</w>
+<w>That's</w>
+<w>my</w>
+<w>motto</w>
+<media start="1507.3390" end="1510.0910" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>I</w>
+<w>made</w>
+<w>grand</w>
+<w>last</w>
+<w>year</w>
+<w>sellin'</w>
+<w>marmalade</w>
+<media start="1510.9260" end="1513.4270" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>That's</w>
+<w>not</w>
+<w>bad</w>
+<w>I</w>
+<w>mean</w>
+<w>you</w>
+<w>know</w>
+<w>considering</w>
+<w>marmalade</w>
+<media start="1516.6400" end="1518.4320" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Hey</w>
+<w>what</w>
+<w>are</w>
+<w>you</w>
+<w>gettin'</w>
+<w>outta</w>
+<w>this</w>
+<w>kicks</w>
+<media start="1520.6020" end="1523.1870" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Or</w>
+<w>did</w>
+<w>somebody</w>
+<w>bump</w>
+<w>you</w>
+<w>on</w>
+<w>the</w>
+<w>head</w>
+<w>one</w>
+<w>time</w>
+<w>and</w>
+<w>you</w>
+<w>haven't</w>
+<w>gotten</w>
+<w>over</w>
+<w>it</w>
+<media start="1523.2720" end="1524.9810" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Maybe</w>
+<media start="1560.8090" end="1562.6020" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>No</w>
+<w>difference</w>
+<w>at</w>
+<w>all</w>
+<media start="1574.5310" end="1576.4070" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Nice</w>
+<w>bunch</w>
+<w>of</w>
+<w>guys</w>
+<w>huh</w>
+<media start="1576.4910" end="1578.7840" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Oh</w>
+<w>they're</w>
+<w>about</w>
+<w>the</w>
+<w>same</w>
+<w>as</w>
+<w>anyone</w>
+<w>else</w>
+<media start="1578.8690" end="1581.6620" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Phew!</w>
+<w>Boy</w>
+<w>what</w>
+<w>a</w>
+<w>murderous</w>
+<w>day</w>
+<media start="1582.6640" end="1584.7070" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>You</w>
+<w>think</w>
+<w>we'll</w>
+<w>be</w>
+<w>much</w>
+<w>longer</w>
+<media start="1584.7910" end="1586.4170" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>don't</w>
+<w>know</w>
+<media start="1586.5010" end="1588.4190" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Aw</w>
+<w>he's</w>
+<w>guilty</w>
+<w>for</w>
+<w>sure</w>
+<media start="1588.5030" end="1590.0460" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Not</w>
+<w>a</w>
+<w>doubt</w>
+<w>in</w>
+<w>the</w>
+<w>whole</w>
+<w>world</w>
+<media start="1590.1300" end="1592.6730" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>We</w>
+<w>should</w>
+<w>Should've</w>
+<w>been</w>
+<w>done</w>
+<w>already</w>
+<media start="1594.9270" end="1596.1770" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Oh</w>
+<w>I</w>
+<w>don't</w>
+<w>mind</w>
+<w>you</w>
+<w>know</w>
+<media start="1596.2610" end="1598.6790" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Hmm</w>
+<w>Beats</w>
+<w>workin'</w>
+<media start="1602.3510" end="1603.5170" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Uh</w>
+<media start="1605.8960" end="1607.9800" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>You</w>
+<w>think</w>
+<w>he's</w>
+<w>not</w>
+<w>guilty</w>
+<w>huh</w>
+<media start="1608.0650" end="1609.8990" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>don't</w>
+<w>know</w>
+<w>It's</w>
+<w>possible</w>
+<media start="1610.6510" end="1614.4450" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Well</w>
+<w>I</w>
+<w>don't</w>
+<w>know</w>
+<w>you</w>
+<w>but</w>
+<w>I'm</w>
+<w>bettin'</w>
+<w>you</w>
+<w>never</w>
+<w>been</w>
+<w>wronger</w>
+<w>in</w>
+<w>your</w>
+<w>life</w>
+<media start="1614.5290" end="1616.9480" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>You're</w>
+<w>wasting</w>
+<w>your</w>
+<w>time</w>
+<w>You</w>
+<w>ought</w>
+<w>to</w>
+<w>wrap</w>
+<w>it</w>
+<w>up</w>
+<media start="1617.0320" end="1619.2000" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Supposing</w>
+<w>you</w>
+<w>were</w>
+<w>the</w>
+<w>one</w>
+<w>who</w>
+<w>was</w>
+<w>on</w>
+<w>trial</w>
+<media start="1620.0350" end="1621.9110" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Well</w>
+<w>I'm</w>
+<w>not</w>
+<w>used</w>
+<w>to</w>
+<w>supposing</w>
+<media start="1621.9950" end="1626.4990" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>I'm</w>
+<w>just</w>
+<w>a</w>
+<w>workingman</w>
+<w>My</w>
+<w>boss</w>
+<w>does</w>
+<w>the</w>
+<w>supposing</w>
+<w>But</w>
+<media start="1626.5830" end="1628.0840" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Well</w>
+<w>I'll</w>
+<w>try</w>
+<w>one</w>
+<media start="1629.2940" end="1634.9660" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Supposing</w>
+<w>you</w>
+<w>talk</w>
+<w>us</w>
+<w>all</w>
+<w>out</w>
+<w>of</w>
+<w>this</w>
+<w>and</w>
+<w>uh</w>
+<w>the</w>
+<w>kid</w>
+<w>really</w>
+<w>did</w>
+<w>knife</w>
+<w>his</w>
+<w>father</w>
+<w>Huh</w>
+<media start="1650.1480" end="1653.5670" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Okay</w>
+<w>fellas</w>
+<w>let's</w>
+<w>take</w>
+<w>our</w>
+<w>seats</w>
+<media start="1653.6520" end="1655.5690" unit="s"/>
+</u>
+
+<u who="Juror 2" uID="#2">
+<w>Looks</w>
+<w>like</w>
+<w>we'll</w>
+<w>be</w>
+<w>here</w>
+<w>for</w>
+<w>dinner</w>
+<w>huh</w>
+<media start="1655.6540" end="1658.0300" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Okay</w>
+<w>now</w>
+<w>let's</w>
+<w>Let's</w>
+<w>get</w>
+<w>down</w>
+<w>to</w>
+<w>business</w>
+<media start="1658.1150" end="1659.4900" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Now</w>
+<w>who</w>
+<w>wants</w>
+<w>to</w>
+<w>start</w>
+<w>it</w>
+<w>off</w>
+<media start="1659.5740" end="1660.9920" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>I</w>
+<w>would</w>
+<media start="1663.2450" end="1667.1230" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>The</w>
+<w>old</w>
+<w>man</w>
+<w>who</w>
+<w>lived</w>
+<w>downstairs</w>
+<w>says</w>
+<w>he</w>
+<w>heard</w>
+<w>the</w>
+<w>kid</w>
+<w>yell</w>
+<w>out</w>
+<w>I'm</w>
+<w>gonna</w>
+<w>kill</w>
+<w>ya</w>
+<media start="1667.2070" end="1669.8340" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>A</w>
+<w>second</w>
+<w>later</w>
+<w>he</w>
+<w>heard</w>
+<w>the</w>
+<w>body</w>
+<w>hit</w>
+<w>the</w>
+<w>floor</w>
+<media start="1669.9180" end="1673.7960" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Now</w>
+<w>he</w>
+<w>ran</w>
+<w>to</w>
+<w>the</w>
+<w>door</w>
+<w>and</w>
+<w>he</w>
+<w>saw</w>
+<w>the</w>
+<w>kid</w>
+<w>running</w>
+<w>down</w>
+<w>the</w>
+<w>stairs</w>
+<w>and</w>
+<w>out</w>
+<w>of</w>
+<w>the</w>
+<w>house</w>
+<media start="1673.8800" end="1675.2560" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>What</w>
+<w>does</w>
+<w>that</w>
+<w>mean</w>
+<w>to</w>
+<w>you</w>
+<media start="1675.3400" end="1678.7180" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>was</w>
+<w>wondering</w>
+<w>how</w>
+<w>clearly</w>
+<w>the</w>
+<w>old</w>
+<w>man</w>
+<w>could</w>
+<w>have</w>
+<w>heard</w>
+<w>the</w>
+<w>boy's</w>
+<w>voice</w>
+<w>through</w>
+<w>the</w>
+<w>ceiling</w>
+<media start="1678.8020" end="1680.8450" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>He</w>
+<w>didn't</w>
+<w>hear</w>
+<w>it</w>
+<w>through</w>
+<w>the</w>
+<w>ceiling</w>
+<w>The</w>
+<w>window</w>
+<w>was</w>
+<w>open</w>
+<media start="1680.9290" end="1682.7630" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>So</w>
+<w>was</w>
+<w>the</w>
+<w>one</w>
+<w>upstairs</w>
+<w>It</w>
+<w>was</w>
+<w>a</w>
+<w>hot</w>
+<w>night</w>
+<w>remember</w>
+<media start="1682.8480" end="1684.1810" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Well</w>
+<w>it</w>
+<w>was</w>
+<w>another</w>
+<w>apartment</w>
+<media start="1684.2660" end="1686.8510" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>It's</w>
+<w>not</w>
+<w>that</w>
+<w>easy</w>
+<w>to</w>
+<w>identify</w>
+<w>a</w>
+<w>voice</w>
+<w>particularly</w>
+<w>a</w>
+<w>shouting</w>
+<w>voice</w>
+<media start="1686.9350" end="1688.5190" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>He</w>
+<w>identified</w>
+<w>it</w>
+<w>in</w>
+<w>court</w>
+<media start="1688.6030" end="1690.0620" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>And</w>
+<w>don't</w>
+<w>forget</w>
+<w>the</w>
+<w>lady</w>
+<w>across</w>
+<w>the</w>
+<w>street</w>
+<media start="1690.1470" end="1692.9400" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>She</w>
+<w>looked</w>
+<w>right</w>
+<w>in</w>
+<w>the</w>
+<w>open</w>
+<w>window</w>
+<w>and</w>
+<w>saw</w>
+<w>the</w>
+<w>boy</w>
+<w>stab</w>
+<w>his</w>
+<w>father</w>
+<media start="1693.0250" end="1695.4840" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Now</w>
+<w>I</w>
+<w>mean</w>
+<w>isn't</w>
+<w>that</w>
+<w>enough</w>
+<w>for</w>
+<w>you</w>
+<media start="1695.4840" end="1695.5550" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>No</w>
+<w>it</w>
+<w>isn't</w>
+<media start="1695.5690" end="1697.5280" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Boy</w>
+<w>how</w>
+<w>do</w>
+<w>you</w>
+<w>like</w>
+<w>this</w>
+<w>guy</w>
+<w>huh</w>
+<media start="1697.6120" end="1699.4470" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>It's</w>
+<w>like</w>
+<w>talking</w>
+<w>into</w>
+<w>a</w>
+<w>dead</w>
+<w>phone</w>
+<media start="1699.5310" end="1702.7000" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>She</w>
+<w>said</w>
+<w>she</w>
+<w>saw</w>
+<w>the</w>
+<w>killing</w>
+<w>through</w>
+<w>the</w>
+<w>windows</w>
+<w>of</w>
+<w>a</w>
+<w>moving</w>
+<w>elevated</w>
+<w>train</w>
+<media start="1702.7840" end="1706.2870" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>There</w>
+<w>were</w>
+<w>six</w>
+<w>cars</w>
+<w>on</w>
+<w>the</w>
+<w>train</w>
+<w>She</w>
+<w>saw</w>
+<w>the</w>
+<w>killing</w>
+<w>through</w>
+<w>the</w>
+<w>last</w>
+<w>two</w>
+<w>cars</w>
+<media start="1706.3710" end="1708.2050" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>She</w>
+<w>remembered</w>
+<w>the</w>
+<w>most</w>
+<w>insignificant</w>
+<w>details</w>
+<media start="1708.2900" end="1710.3320" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>I</w>
+<w>don't</w>
+<w>see</w>
+<w>how</w>
+<w>you</w>
+<w>can</w>
+<w>argue</w>
+<w>with</w>
+<w>that</w>
+<media start="1710.4170" end="1714.9620" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Has</w>
+<w>anybody</w>
+<w>here</w>
+<w>any</w>
+<w>idea</w>
+<w>how</w>
+<w>long</w>
+<w>it</w>
+<w>would</w>
+<w>take</w>
+<w>an</w>
+<w>el</w>
+<media start="1723.6380" end="1725.2220" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Hey!</w>
+<media start="1725.3070" end="1726.8070" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>This</w>
+<w>isn't</w>
+<w>a</w>
+<w>game</w>
+<media start="1731.1040" end="1733.3550" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Did</w>
+<w>you</w>
+<w>see</w>
+<w>him</w>
+<media start="1733.4400" end="1735.1910" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>The</w>
+<w>nerve</w>
+<w>All</w>
+<w>right</w>
+<w>listen</w>
+<media start="1740.6550" end="1743.9910" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Who</w>
+<w>does</w>
+<w>he</w>
+<w>think</w>
+<w>he</w>
+<w>is</w>
+<w>I'm</w>
+<w>telling</w>
+<w>you</w>
+<w>forget</w>
+<w>it</w>
+<w>now</w>
+<media start="1744.0760" end="1747.4110" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Has</w>
+<w>anybody</w>
+<w>any</w>
+<w>idea</w>
+<w>how</w>
+<w>long</w>
+<w>it</w>
+<w>takes</w>
+<w>an</w>
+<w>elevated</w>
+<w>train</w>
+<media start="1747.4960" end="1749.3300" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>going</w>
+<w>at</w>
+<w>medium</w>
+<w>speed</w>
+<w>to</w>
+<w>pass</w>
+<w>a</w>
+<w>given</w>
+<w>point</w>
+<media start="1749.4140" end="1751.2900" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>What</w>
+<w>has</w>
+<w>that</w>
+<w>to</w>
+<w>do</w>
+<w>with</w>
+<w>anything</w>
+<media start="1751.2900" end="1751.3550" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>How</w>
+<w>long</w>
+<w>Take</w>
+<w>a</w>
+<w>guess</w>
+<media start="1751.3740" end="1754.0430" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>I</w>
+<w>wouldn't</w>
+<w>have</w>
+<w>the</w>
+<w>slightest</w>
+<w>idea</w>
+<media start="1754.0430" end="1754.0950" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>What</w>
+<w>do</w>
+<w>you</w>
+<w>think</w>
+<media start="1754.1270" end="1756.0030" unit="s"/>
+</u>
+
+<u who="Juror 5" uID="#5">
+<w>I</w>
+<w>don't</w>
+<w>know</w>
+<w>Maybe</w>
+<w>seconds</w>
+<media start="1757.0050" end="1758.6720" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>think</w>
+<w>that's</w>
+<w>a</w>
+<w>pretty</w>
+<w>good</w>
+<w>guess</w>
+<w>Anyone</w>
+<w>else</w>
+<media start="1758.7570" end="1761.5500" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>[</w>
+<w>Juror</w>
+<w>]</w>
+<w>That</w>
+<w>sounds</w>
+<w>right</w>
+<w>to</w>
+<w>me</w>
+<media start="1761.5500" end="1761.6250" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Come</w>
+<w>on</w>
+<w>What's</w>
+<w>the</w>
+<w>guessing</w>
+<w>game</w>
+<w>for</w>
+<media start="1761.6350" end="1763.4690" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>What</w>
+<w>do</w>
+<w>you</w>
+<w>say</w>
+<media start="1763.4690" end="1763.5350" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Ten</w>
+<w>seconds</w>
+<w>is</w>
+<w>about</w>
+<w>right</w>
+<media start="1763.5530" end="1765.4710" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>All</w>
+<w>right</w>
+<w>Say</w>
+<w>seconds</w>
+<w>What</w>
+<w>are</w>
+<w>you</w>
+<w>getting</w>
+<w>at</w>
+<media start="1765.5550" end="1770.6010" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>This</w>
+<w>It</w>
+<w>takes</w>
+<w>a</w>
+<w>six</w>
+<w>car</w>
+<w>el</w>
+<w>train</w>
+<w>seconds</w>
+<w>to</w>
+<w>pass</w>
+<w>a</w>
+<w>given</w>
+<w>point</w>
+<media start="1770.6850" end="1774.9390" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Now</w>
+<w>let's</w>
+<w>say</w>
+<w>the</w>
+<w>given</w>
+<w>point</w>
+<w>is</w>
+<w>the</w>
+<w>open</w>
+<w>window</w>
+<w>of</w>
+<w>the</w>
+<w>room</w>
+<w>where</w>
+<w>the</w>
+<w>killing</w>
+<w>took</w>
+<w>place</w>
+<media start="1775.0230" end="1778.3170" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>You</w>
+<w>can</w>
+<w>reach</w>
+<w>out</w>
+<w>of</w>
+<w>that</w>
+<w>window</w>
+<w>and</w>
+<w>almost</w>
+<w>touch</w>
+<w>the</w>
+<w>el</w>
+<w>tracks</w>
+<w>right</w>
+<media start="1778.4010" end="1779.9020" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Now</w>
+<w>let</w>
+<w>me</w>
+<w>ask</w>
+<w>you</w>
+<w>this</w>
+<media start="1779.9860" end="1782.2380" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Has</w>
+<w>anyone</w>
+<w>here</w>
+<w>ever</w>
+<w>lived</w>
+<w>near</w>
+<w>the</w>
+<w>el</w>
+<w>tracks</w>
+<media start="1782.3220" end="1785.9500" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Well</w>
+<w>uh</w>
+<w>I</w>
+<w>just</w>
+<w>finished</w>
+<w>painting</w>
+<w>an</w>
+<w>apartment</w>
+<w>that</w>
+<w>overlooked</w>
+<w>an</w>
+<w>el</w>
+<w>line</w>
+<media start="1786.0340" end="1787.7010" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>I</w>
+<w>was</w>
+<w>there</w>
+<w>for</w>
+<w>three</w>
+<w>days</w>
+<media start="1787.7010" end="1787.7750" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>What</w>
+<w>was</w>
+<w>it</w>
+<w>like</w>
+<media start="1787.7860" end="1788.9530" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>What</w>
+<w>do</w>
+<w>you</w>
+<w>mean</w>
+<media start="1788.9530" end="1788.9950" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Noisy</w>
+<media start="1789.0370" end="1791.5800" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Oh</w>
+<w>brother</w>
+<w>Don't</w>
+<w>matter</w>
+<w>though</w>
+<w>We</w>
+<w>were</w>
+<w>all</w>
+<w>punchy</w>
+<media start="1791.6650" end="1794.2500" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>lived</w>
+<w>in</w>
+<w>a</w>
+<w>second</w>
+<w>floor</w>
+<w>apartment</w>
+<w>near</w>
+<w>the</w>
+<w>el</w>
+<w>line</w>
+<w>once</w>
+<media start="1794.3340" end="1797.3780" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>When</w>
+<w>the</w>
+<w>window</w>
+<w>was</w>
+<w>open</w>
+<w>and</w>
+<w>the</w>
+<w>train</w>
+<w>goes</w>
+<w>by</w>
+<w>the</w>
+<w>noise</w>
+<w>is</w>
+<w>almost</w>
+<w>unbearable</w>
+<media start="1797.5040" end="1800.2970" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>You</w>
+<w>can</w>
+<w>hardly</w>
+<w>hear</w>
+<w>yourself</w>
+<w>think</w>
+<media start="1800.2970" end="1800.3450" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>All</w>
+<w>right</w>
+<w>you</w>
+<w>can't</w>
+<w>hear</w>
+<w>yourself</w>
+<w>think</w>
+<media start="1800.3820" end="1802.8000" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Will</w>
+<w>you</w>
+<w>get</w>
+<w>to</w>
+<w>the</w>
+<w>point</w>
+<media start="1802.8840" end="1806.5120" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>will</w>
+<w>Now</w>
+<w>just</w>
+<w>a</w>
+<w>minute</w>
+<w>Let's</w>
+<w>take</w>
+<w>two</w>
+<w>pieces</w>
+<w>of</w>
+<w>testimony</w>
+<w>and</w>
+<w>try</w>
+<w>to</w>
+<w>put</w>
+<w>them</w>
+<w>together</w>
+<media start="1806.5960" end="1810.6830" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>First</w>
+<w>The</w>
+<w>old</w>
+<w>man</w>
+<w>in</w>
+<w>the</w>
+<w>apartment</w>
+<w>downstairs</w>
+<media start="1810.7670" end="1813.3520" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>He</w>
+<w>says</w>
+<w>he</w>
+<w>heard</w>
+<w>the</w>
+<w>boy</w>
+<w>say</w>
+<w>I'm</w>
+<w>gonna</w>
+<w>kill</w>
+<w>you</w>
+<media start="1813.4360" end="1816.1880" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>and</w>
+<w>a</w>
+<w>split</w>
+<w>second</w>
+<w>later</w>
+<w>heard</w>
+<w>a</w>
+<w>body</w>
+<w>hit</w>
+<w>the</w>
+<w>floor</w>
+<media start="1816.2730" end="1817.8570" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>One</w>
+<w>second</w>
+<w>later</w>
+<w>right</w>
+<media start="1817.8570" end="1817.9250" unit="s"/>
+</u>
+
+<u who="Juror 2" uID="#2">
+<w>That's</w>
+<w>right</w>
+<media start="1817.9410" end="1823.9460" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Second</w>
+<w>The</w>
+<w>woman</w>
+<w>across</w>
+<w>the</w>
+<w>street</w>
+<w>swore</w>
+<w>positively</w>
+<w>she</w>
+<w>looked</w>
+<w>out</w>
+<w>of</w>
+<w>the</w>
+<w>window</w>
+<media start="1824.0300" end="1827.3660" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>and</w>
+<w>saw</w>
+<w>the</w>
+<w>killing</w>
+<w>through</w>
+<w>the</w>
+<w>last</w>
+<w>two</w>
+<w>cars</w>
+<w>of</w>
+<w>the</w>
+<w>passing</w>
+<w>elevated</w>
+<w>train</w>
+<w>right</w>
+<media start="1827.4500" end="1829.7850" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>The</w>
+<w>last</w>
+<w>two</w>
+<w>cars</w>
+<media start="1829.7850" end="1829.8450" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>What</w>
+<w>are</w>
+<w>you</w>
+<w>giving</w>
+<w>us</w>
+<w>here</w>
+<media start="1829.8700" end="1831.2030" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Now</w>
+<w>just</w>
+<w>a</w>
+<w>minute</w>
+<media start="1831.2880" end="1835.7080" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>We've</w>
+<w>agreed</w>
+<w>that</w>
+<w>it</w>
+<w>takes</w>
+<w>seconds</w>
+<w>for</w>
+<w>a</w>
+<w>train</w>
+<w>to</w>
+<w>pass</w>
+<w>a</w>
+<w>given</w>
+<w>point</w>
+<media start="1836.5430" end="1839.8790" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Since</w>
+<w>the</w>
+<w>woman</w>
+<w>saw</w>
+<w>the</w>
+<w>killing</w>
+<w>through</w>
+<w>the</w>
+<w>last</w>
+<w>two</w>
+<w>cars</w>
+<media start="1839.9630" end="1844.9250" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>we</w>
+<w>can</w>
+<w>assume</w>
+<w>that</w>
+<w>the</w>
+<w>body</w>
+<w>hit</w>
+<w>the</w>
+<w>floor</w>
+<w>just</w>
+<w>as</w>
+<w>the</w>
+<w>train</w>
+<w>went</w>
+<w>by</w>
+<media start="1845.0100" end="1849.4710" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Therefore</w>
+<w>the</w>
+<w>train</w>
+<w>had</w>
+<w>been</w>
+<w>roaring</w>
+<w>by</w>
+<w>the</w>
+<w>old</w>
+<w>man's</w>
+<w>window</w>
+<media start="1849.5560" end="1853.0580" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>a</w>
+<w>full</w>
+<w>seconds</w>
+<w>before</w>
+<w>the</w>
+<w>body</w>
+<w>hit</w>
+<w>the</w>
+<w>floor</w>
+<media start="1853.1430" end="1855.3520" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>The</w>
+<w>old</w>
+<w>man</w>
+<w>according</w>
+<w>to</w>
+<w>his</w>
+<w>own</w>
+<w>testimony</w>
+<media start="1855.4370" end="1858.3550" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I'm</w>
+<w>gonna</w>
+<w>kill</w>
+<w>you</w>
+<w>body</w>
+<w>hitting</w>
+<w>the</w>
+<w>floor</w>
+<w>a</w>
+<w>split</w>
+<w>second</w>
+<w>later</w>
+<media start="1858.4400" end="1860.9000" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>would</w>
+<w>have</w>
+<w>had</w>
+<w>to</w>
+<w>hear</w>
+<w>the</w>
+<w>boy</w>
+<w>make</w>
+<w>this</w>
+<w>statement</w>
+<media start="1860.9840" end="1862.8600" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>with</w>
+<w>the</w>
+<w>el</w>
+<w>roaring</w>
+<w>past</w>
+<w>his</w>
+<w>nose</w>
+<media start="1862.9440" end="1864.4860" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>It's</w>
+<w>not</w>
+<w>possible</w>
+<w>he</w>
+<w>could've</w>
+<w>heard</w>
+<w>it</w>
+<media start="1864.5710" end="1866.7390" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>That's</w>
+<w>idiotic</w>
+<w>Of</w>
+<w>course</w>
+<w>he</w>
+<w>heard</w>
+<w>it</w>
+<media start="1866.7390" end="1866.7950" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Do</w>
+<w>you</w>
+<w>think</w>
+<w>he</w>
+<w>could've</w>
+<w>heard</w>
+<w>it</w>
+<media start="1866.8230" end="1869.2000" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>He</w>
+<w>said</w>
+<w>he</w>
+<w>yelled</w>
+<w>at</w>
+<w>the</w>
+<w>top</w>
+<w>of</w>
+<w>his</w>
+<w>voice</w>
+<w>That's</w>
+<w>good</w>
+<w>enough</w>
+<w>for</w>
+<w>me</w>
+<media start="1869.2840" end="1871.5350" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Even</w>
+<w>if</w>
+<w>he</w>
+<w>heard</w>
+<w>something</w>
+<w>he</w>
+<w>still</w>
+<w>couldn't</w>
+<w>have</w>
+<w>identified</w>
+<w>the</w>
+<w>voice</w>
+<media start="1871.6200" end="1872.7450" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>With</w>
+<w>the</w>
+<w>el</w>
+<w>roaring</w>
+<w>by</w>
+<media start="1872.8290" end="1875.2060" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>You're</w>
+<w>talking</w>
+<w>about</w>
+<w>a</w>
+<w>matter</w>
+<w>of</w>
+<w>seconds!</w>
+<w>Nobody</w>
+<w>can</w>
+<w>be</w>
+<w>that</w>
+<w>accurate</w>
+<media start="1875.2900" end="1879.9190" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>think</w>
+<w>testimony</w>
+<w>that</w>
+<w>could</w>
+<w>put</w>
+<w>a</w>
+<w>boy</w>
+<w>into</w>
+<w>the</w>
+<w>electric</w>
+<w>chair</w>
+<w>should</w>
+<w>be</w>
+<w>that</w>
+<w>accurate</w>
+<media start="1882.1300" end="1884.0480" unit="s"/>
+</u>
+
+<u who="Juror 5" uID="#5">
+<w>You</w>
+<w>know</w>
+<w>something</w>
+<w>I</w>
+<w>don't</w>
+<w>think</w>
+<w>he</w>
+<w>could've</w>
+<w>heard</w>
+<w>it</w>
+<media start="1884.1320" end="1886.4670" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Maybe</w>
+<w>he</w>
+<w>didn't</w>
+<w>hear</w>
+<w>it</w>
+<w>I</w>
+<w>mean</w>
+<w>with</w>
+<w>all</w>
+<w>that</w>
+<w>el</w>
+<w>noise</w>
+<media start="1886.5510" end="1888.4270" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Oh</w>
+<w>what</w>
+<w>are</w>
+<w>you</w>
+<w>people</w>
+<w>talking</w>
+<w>about</w>
+<media start="1888.5110" end="1890.5540" unit="s"/>
+</u>
+
+<u who="Juror 5" uID="#5">
+<w>Well</w>
+<w>it</w>
+<w>stands</w>
+<w>to</w>
+<w>reason</w>
+<w>he</w>
+<w>couldn't</w>
+<w>have</w>
+<w>heard</w>
+<w>it</w>
+<media start="1890.6390" end="1892.5560" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Why</w>
+<w>should</w>
+<w>he</w>
+<w>lie</w>
+<w>What's</w>
+<w>he</w>
+<w>got</w>
+<w>to</w>
+<w>gain</w>
+<media start="1892.6410" end="1894.8500" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>Attention</w>
+<w>maybe</w>
+<media start="1894.9350" end="1896.8520" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>You</w>
+<w>keep</w>
+<w>coming</w>
+<w>in</w>
+<w>with</w>
+<w>these</w>
+<w>bright</w>
+<w>sayings!</w>
+<media start="1896.9370" end="1899.9800" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Why</w>
+<w>don't</w>
+<w>you</w>
+<w>send</w>
+<w>'em</w>
+<w>in</w>
+<w>to</w>
+<w>a</w>
+<w>paper</w>
+<w>They</w>
+<w>pay</w>
+<w>three</w>
+<w>dollars</w>
+<w>apiece</w>
+<media start="1900.0650" end="1902.2740" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>What</w>
+<w>are</w>
+<w>you</w>
+<w>talking</w>
+<w>to</w>
+<w>him</w>
+<w>like</w>
+<w>that</w>
+<w>for</w>
+<media start="1903.2350" end="1906.6540" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Guy</w>
+<w>talks</w>
+<w>like</w>
+<w>that</w>
+<w>to</w>
+<w>an</w>
+<w>old</w>
+<w>man</w>
+<w>really</w>
+<w>ought</w>
+<w>to</w>
+<w>get</w>
+<w>stepped</w>
+<w>on</w>
+<w>you</w>
+<w>know</w>
+<media start="1906.7380" end="1908.5720" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>You</w>
+<w>ought</w>
+<w>to</w>
+<w>have</w>
+<w>more</w>
+<w>respect</w>
+<w>mister</w>
+<media start="1909.7830" end="1914.1610" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>If</w>
+<w>you</w>
+<w>say</w>
+<w>stuff</w>
+<w>like</w>
+<w>that</w>
+<w>to</w>
+<w>him</w>
+<w>again</w>
+<w>I'm</w>
+<w>gonna</w>
+<w>lay</w>
+<w>you</w>
+<w>out</w>
+<media start="1924.1300" end="1927.0910" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Now</w>
+<w>you</w>
+<w>go</w>
+<w>ahead</w>
+<w>You</w>
+<w>You</w>
+<w>say</w>
+<w>anything</w>
+<w>you</w>
+<w>like</w>
+<media start="1927.1750" end="1931.2200" unit="s"/>
+</u>
+
+<u who="Juror 6" uID="#6">
+<w>Why</w>
+<w>do</w>
+<w>you</w>
+<w>think</w>
+<w>the</w>
+<w>old</w>
+<w>man</w>
+<w>might</w>
+<w>lie</w>
+<media start="1931.3040" end="1934.7230" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>It</w>
+<w>was</w>
+<w>just</w>
+<w>that</w>
+<w>I</w>
+<w>looked</w>
+<w>at</w>
+<w>him</w>
+<w>for</w>
+<w>a</w>
+<w>very</w>
+<w>long</w>
+<w>time</w>
+<media start="1935.3500" end="1938.6020" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>The</w>
+<w>seams</w>
+<w>of</w>
+<w>his</w>
+<w>jacket</w>
+<w>was</w>
+<w>split</w>
+<w>under</w>
+<w>the</w>
+<w>shoulder</w>
+<media start="1938.6870" end="1940.2710" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>Or</w>
+<w>did</w>
+<w>you</w>
+<w>notice</w>
+<w>that</w>
+<media start="1940.3550" end="1942.8560" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>I</w>
+<w>mean</w>
+<w>to</w>
+<w>come</w>
+<w>to</w>
+<w>court</w>
+<w>like</w>
+<w>that</w>
+<media start="1942.9410" end="1944.6080" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Why</w>
+<media start="1945.7350" end="1949.6130" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>He</w>
+<w>was</w>
+<w>a</w>
+<w>very</w>
+<w>old</w>
+<w>man</w>
+<w>in</w>
+<w>a</w>
+<w>torn</w>
+<w>jacket</w>
+<media start="1949.6980" end="1952.5740" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>And</w>
+<w>he</w>
+<w>walked</w>
+<w>very</w>
+<w>slowly</w>
+<w>to</w>
+<w>the</w>
+<w>stand</w>
+<media start="1953.3260" end="1957.3710" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>He</w>
+<w>was</w>
+<w>dragging</w>
+<w>his</w>
+<w>left</w>
+<w>leg</w>
+<w>and</w>
+<w>trying</w>
+<w>to</w>
+<w>hide</w>
+<w>it</w>
+<media start="1957.4550" end="1959.1230" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>because</w>
+<w>he</w>
+<w>was</w>
+<w>ashamed</w>
+<media start="1960.2500" end="1963.6690" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>I</w>
+<w>think</w>
+<w>I</w>
+<w>know</w>
+<w>this</w>
+<w>man</w>
+<w>better</w>
+<w>than</w>
+<w>anyone</w>
+<w>here</w>
+<media start="1964.5460" end="1969.9670" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>This</w>
+<w>is</w>
+<w>a</w>
+<w>quiet</w>
+<w>frightened</w>
+<w>insignificant</w>
+<w>old</w>
+<w>man</w>
+<w>who</w>
+<media start="1970.0510" end="1972.4280" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>who</w>
+<w>has</w>
+<w>been</w>
+<w>nothing</w>
+<w>all</w>
+<w>his</w>
+<w>life</w>
+<media start="1972.5120" end="1974.9300" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>who</w>
+<w>has</w>
+<w>never</w>
+<w>had</w>
+<w>recognition</w>
+<media start="1975.0150" end="1977.0990" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>or</w>
+<w>his</w>
+<w>name</w>
+<w>in</w>
+<w>the</w>
+<w>newspapers</w>
+<media start="1977.7670" end="1979.9770" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>Nobody</w>
+<w>knows</w>
+<w>him</w>
+<media start="1980.0610" end="1982.1040" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>Nobody</w>
+<w>quotes</w>
+<w>him</w>
+<media start="1982.1880" end="1986.1500" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>Nobody</w>
+<w>seeks</w>
+<w>his</w>
+<w>advice</w>
+<w>after</w>
+<w>years</w>
+<media start="1986.9850" end="1990.8630" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>Gentlemen</w>
+<w>that's</w>
+<w>a</w>
+<w>very</w>
+<w>sad</w>
+<w>thing</w>
+<w>to</w>
+<w>be</w>
+<w>nothing</w>
+<media start="1991.5730" end="1995.9090" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>A</w>
+<w>man</w>
+<w>like</w>
+<w>this</w>
+<w>needs</w>
+<w>to</w>
+<w>be</w>
+<w>quoted</w>
+<w>to</w>
+<w>be</w>
+<w>listened</w>
+<w>to</w>
+<media start="1996.5360" end="1998.4950" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>To</w>
+<w>be</w>
+<w>quoted</w>
+<w>just</w>
+<w>once</w>
+<media start="1998.5800" end="2000.4560" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>Very</w>
+<w>important</w>
+<w>to</w>
+<w>him</w>
+<media start="2000.9570" end="2003.3750" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>It</w>
+<w>would</w>
+<w>be</w>
+<w>so</w>
+<w>hard</w>
+<w>for</w>
+<w>him</w>
+<w>to</w>
+<w>recede</w>
+<w>into</w>
+<w>the</w>
+<w>background</w>
+<media start="2003.4600" end="2005.1690" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Wait</w>
+<w>a</w>
+<w>minute</w>
+<media start="2005.1690" end="2005.2350" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>When</w>
+<w>there</w>
+<w>was</w>
+<w>a</w>
+<w>chance</w>
+<media start="2005.2530" end="2008.1300" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>What</w>
+<w>are</w>
+<w>you</w>
+<w>trying</w>
+<w>to</w>
+<w>do</w>
+<w>tell</w>
+<w>us</w>
+<w>he'd</w>
+<w>lie</w>
+<w>just</w>
+<w>so</w>
+<w>he</w>
+<w>could</w>
+<w>be</w>
+<w>important</w>
+<w>once</w>
+<media start="2008.2140" end="2010.8410" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>No</w>
+<w>He</w>
+<w>wouldn't</w>
+<w>really</w>
+<w>lie</w>
+<media start="2010.9250" end="2014.3860" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>But</w>
+<w>perhaps</w>
+<w>he</w>
+<w>made</w>
+<w>himself</w>
+<w>believe</w>
+<w>he</w>
+<w>heard</w>
+<w>those</w>
+<w>words</w>
+<media start="2014.4710" end="2016.6800" unit="s"/>
+</u>
+
+<u who="Juror 9" uID="#9">
+<w>and</w>
+<w>recognized</w>
+<w>the</w>
+<w>boy's</w>
+<w>face</w>
+<media start="2016.7650" end="2019.0580" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>That's</w>
+<w>the</w>
+<w>most</w>
+<w>fantastic</w>
+<w>story</w>
+<w>I've</w>
+<w>ever</w>
+<w>heard</w>
+<media start="2019.1420" end="2022.1860" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>How</w>
+<w>can</w>
+<w>you</w>
+<w>make</w>
+<w>up</w>
+<w>a</w>
+<w>thing</w>
+<w>like</w>
+<w>that</w>
+<w>What</w>
+<w>do</w>
+<w>you</w>
+<w>know</w>
+<w>about</w>
+<w>it</w>
+<media start="2031.2370" end="2033.2800" unit="s"/>
+</u>
+
+<u who="Juror 2" uID="#2">
+<w>Oh</w>
+<w>uh</w>
+<w>does</w>
+<w>anybody</w>
+<w>want</w>
+<w>a</w>
+<w>cough</w>
+<w>drop</w>
+<media start="2035.7000" end="2039.2030" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>You</w>
+<w>can</w>
+<w>say</w>
+<w>what</w>
+<w>you</w>
+<w>like</w>
+<w>I</w>
+<w>still</w>
+<w>don't</w>
+<w>see</w>
+<w>how</w>
+<w>anybody</w>
+<w>can</w>
+<w>think</w>
+<w>he's</w>
+<w>not</w>
+<w>guilty</w>
+<media start="2039.2870" end="2041.7890" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>There's</w>
+<w>something</w>
+<w>else</w>
+<w>I'd</w>
+<w>like</w>
+<w>to</w>
+<w>talk</w>
+<w>about</w>
+<w>for</w>
+<w>a</w>
+<w>minute</w>
+<media start="2041.8730" end="2043.4990" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Thanks</w>
+<media start="2043.5830" end="2046.8770" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>think</w>
+<w>we've</w>
+<w>proved</w>
+<w>that</w>
+<w>the</w>
+<w>old</w>
+<w>man</w>
+<w>couldn't</w>
+<w>have</w>
+<w>heard</w>
+<w>the</w>
+<w>boy</w>
+<w>say</w>
+<w>I'm</w>
+<w>gonna</w>
+<w>kill</w>
+<w>you</w>
+<media start="2046.9610" end="2048.5450" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>But</w>
+<w>supposing</w>
+<media start="2048.5450" end="2048.6050" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>You</w>
+<w>didn't</w>
+<w>prove</w>
+<w>it</w>
+<w>at</w>
+<w>all</w>
+<w>What</w>
+<w>are</w>
+<w>you</w>
+<w>talking</w>
+<w>about</w>
+<media start="2048.6300" end="2051.4230" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Supposing</w>
+<w>he</w>
+<w>really</w>
+<w>did</w>
+<w>hear</w>
+<w>it</w>
+<media start="2051.5080" end="2053.9260" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>This</w>
+<w>phrase</w>
+<w>how</w>
+<w>many</w>
+<w>times</w>
+<w>have</w>
+<w>all</w>
+<w>of</w>
+<w>us</w>
+<w>used</w>
+<w>it</w>
+<media start="2054.0100" end="2055.5110" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Probably</w>
+<w>thousands</w>
+<media start="2055.5950" end="2057.2210" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>could</w>
+<w>kill</w>
+<w>you</w>
+<w>for</w>
+<w>that</w>
+<w>darling</w>
+<media start="2057.3050" end="2059.2230" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>junior</w>
+<w>you</w>
+<w>do</w>
+<w>that</w>
+<w>once</w>
+<w>more</w>
+<w>and</w>
+<w>I'm</w>
+<w>gonna</w>
+<w>kill</w>
+<w>you</w>
+<media start="2059.3070" end="2060.5990" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Get</w>
+<w>in</w>
+<w>there</w>
+<w>Rocky</w>
+<w>and</w>
+<w>kill</w>
+<w>him</w>
+<media start="2060.6830" end="2062.5590" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>We</w>
+<w>say</w>
+<w>it</w>
+<w>every</w>
+<w>day</w>
+<w>That</w>
+<w>doesn't</w>
+<w>mean</w>
+<w>we're</w>
+<w>really</w>
+<w>gonna</w>
+<w>kill</w>
+<w>anybody</w>
+<media start="2062.6440" end="2064.4360" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Wait</w>
+<w>a</w>
+<w>minute</w>
+<w>What</w>
+<w>are</w>
+<w>you</w>
+<w>trying</w>
+<w>to</w>
+<w>give</w>
+<w>us</w>
+<w>here</w>
+<media start="2064.5210" end="2068.2320" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>The</w>
+<w>phrase</w>
+<w>was</w>
+<w>I'm</w>
+<w>gonna</w>
+<w>kill</w>
+<w>you</w>
+<w>The</w>
+<w>kid</w>
+<w>yelled</w>
+<w>it</w>
+<w>at</w>
+<w>the</w>
+<w>top</w>
+<w>of</w>
+<w>his</w>
+<w>lungs</w>
+<media start="2068.3160" end="2069.6500" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Don't</w>
+<w>tell</w>
+<w>me</w>
+<w>he</w>
+<w>didn't</w>
+<w>mean</w>
+<w>it</w>
+<media start="2069.7340" end="2072.0270" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Anybody</w>
+<w>says</w>
+<w>a</w>
+<w>thing</w>
+<w>like</w>
+<w>that</w>
+<w>the</w>
+<w>way</w>
+<w>he</w>
+<w>said</w>
+<w>it</w>
+<w>they</w>
+<w>mean</w>
+<w>it</w>
+<media start="2072.1120" end="2073.5700" unit="s"/>
+</u>
+
+<u who="Juror 2" uID="#2">
+<w>Well</w>
+<w>gee</w>
+<w>now</w>
+<w>I</w>
+<w>don't</w>
+<w>know</w>
+<media start="2073.6550" end="2078.3670" unit="s"/>
+</u>
+
+<u who="Juror 2" uID="#2">
+<w>I</w>
+<w>remember</w>
+<w>I</w>
+<w>was</w>
+<w>arguing</w>
+<w>with</w>
+<w>a</w>
+<w>guy</w>
+<w>I</w>
+<w>work</w>
+<w>next</w>
+<w>to</w>
+<w>at</w>
+<w>the</w>
+<w>bank</w>
+<w>a</w>
+<w>couple</w>
+<w>weeks</w>
+<w>ago</w>
+<media start="2078.4510" end="2080.2020" unit="s"/>
+</u>
+
+<u who="Juror 2" uID="#2">
+<w>He</w>
+<w>called</w>
+<w>me</w>
+<w>an</w>
+<w>idiot</w>
+<w>so</w>
+<w>I</w>
+<w>yelled</w>
+<w>at</w>
+<w>him</w>
+<media start="2080.2860" end="2083.2470" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Now</w>
+<w>listen!</w>
+<w>This</w>
+<w>guy's</w>
+<w>trying</w>
+<w>to</w>
+<w>make</w>
+<w>you</w>
+<w>believe</w>
+<w>things</w>
+<w>that</w>
+<w>aren't</w>
+<w>so</w>
+<media start="2083.3310" end="2085.4160" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>The</w>
+<w>kid</w>
+<w>said</w>
+<w>he</w>
+<w>was</w>
+<w>gonna</w>
+<w>kill</w>
+<w>him</w>
+<w>and</w>
+<w>he</w>
+<w>did</w>
+<w>kill</w>
+<w>him</w>
+<media start="2085.5000" end="2088.4600" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Let</w>
+<w>me</w>
+<w>ask</w>
+<w>you</w>
+<w>this</w>
+<w>Do</w>
+<w>you</w>
+<w>really</w>
+<w>think</w>
+<w>the</w>
+<w>boy</w>
+<w>would</w>
+<w>shout</w>
+<w>out</w>
+<w>a</w>
+<w>thing</w>
+<w>like</w>
+<w>that</w>
+<media start="2088.5450" end="2090.3370" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>so</w>
+<w>the</w>
+<w>whole</w>
+<w>neighborhood</w>
+<w>could</w>
+<w>hear</w>
+<w>him</w>
+<media start="2090.4220" end="2092.2560" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>don't</w>
+<w>think</w>
+<w>so</w>
+<w>He's</w>
+<w>much</w>
+<w>too</w>
+<w>bright</w>
+<w>for</w>
+<w>that</w>
+<media start="2092.3400" end="2097.0940" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Bright</w>
+<w>He's</w>
+<w>a</w>
+<w>common</w>
+<w>ignorant</w>
+<w>slob</w>
+<w>He</w>
+<w>don't</w>
+<w>even</w>
+<w>speak</w>
+<w>good</w>
+<w>English</w>
+<media start="2097.1780" end="2100.0130" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>He</w>
+<w>doesn't</w>
+<w>even</w>
+<w>speak</w>
+<w>good</w>
+<w>English</w>
+<media start="2102.4750" end="2106.2700" unit="s"/>
+</u>
+
+<u who="Juror 5" uID="#5">
+<w>Mr</w>
+<w>Foreman</w>
+<w>I'd</w>
+<w>like</w>
+<w>to</w>
+<w>change</w>
+<w>my</w>
+<w>vote</w>
+<w>to</w>
+<w>not</w>
+<w>guilty</w>
+<media start="2106.3540" end="2107.7710" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>You</w>
+<w>what</w>
+<media start="2107.8560" end="2110.2740" unit="s"/>
+</u>
+
+<u who="Juror 5" uID="#5">
+<w>You</w>
+<w>heard</w>
+<w>me</w>
+<media start="2110.2740" end="2110.9450" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Are</w>
+<w>you</w>
+<w>sure</w>
+<media start="2111.1920" end="2112.6090" unit="s"/>
+</u>
+
+<u who="Juror 5" uID="#5">
+<w>Yeah</w>
+<w>I'm</w>
+<w>sure</w>
+<media start="2112.6940" end="2115.1540" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>The</w>
+<w>vote</w>
+<w>is</w>
+<w>nine</w>
+<w>to</w>
+<w>three</w>
+<w>favor</w>
+<w>of</w>
+<w>guilty</w>
+<media start="2115.2380" end="2118.0310" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Well</w>
+<w>if</w>
+<w>this</w>
+<w>isn't</w>
+<w>the</w>
+<w>living</w>
+<w>end</w>
+<w>Huh</w>
+<media start="2122.0780" end="2124.8300" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>What</w>
+<w>are</w>
+<w>you</w>
+<w>basing</w>
+<w>it</w>
+<w>on</w>
+<w>the</w>
+<w>stories</w>
+<w>this</w>
+<w>guy</w>
+<w>made</w>
+<w>up</w>
+<media start="2125.4570" end="2127.7910" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>You</w>
+<w>ought</w>
+<w>to</w>
+<w>write</w>
+<w>for</w>
+<w>one</w>
+<w>of</w>
+<w>those</w>
+<w>kooky</w>
+<w>detective</w>
+<w>magazines</w>
+<media start="2127.8760" end="2129.7100" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>You'd</w>
+<w>make</w>
+<w>a</w>
+<w>fortune</w>
+<media start="2129.7940" end="2133.2130" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>For</w>
+<w>crying</w>
+<w>out</w>
+<w>loud</w>
+<w>The</w>
+<w>kid's</w>
+<w>own</w>
+<w>lawyer</w>
+<w>knew</w>
+<w>he</w>
+<w>didn't</w>
+<w>stand</w>
+<w>a</w>
+<w>chance</w>
+<media start="2133.7150" end="2135.2990" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Right</w>
+<w>from</w>
+<w>the</w>
+<w>beginning</w>
+<w>his</w>
+<w>own</w>
+<w>lawyer</w>
+<w>knew</w>
+<w>it</w>
+<media start="2135.3830" end="2137.1760" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>You</w>
+<w>could</w>
+<w>see</w>
+<w>it</w>
+<media start="2137.2600" end="2140.8460" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Boy</w>
+<w>oh</w>
+<w>boy</w>
+<w>I'm</w>
+<w>tellin'</w>
+<w>you</w>
+<w>this</w>
+<w>guy</w>
+<w>here</w>
+<w>is</w>
+<w>really</w>
+<w>something</w>
+<media start="2141.6810" end="2143.4740" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Look</w>
+<w>the</w>
+<w>kid</w>
+<w>had</w>
+<w>a</w>
+<w>lawyer</w>
+<w>didn't</w>
+<w>he</w>
+<media start="2143.5580" end="2146.3930" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>He</w>
+<w>presented</w>
+<w>his</w>
+<w>case</w>
+<w>not</w>
+<w>you</w>
+<w>How</w>
+<w>come</w>
+<w>you</w>
+<w>got</w>
+<w>so</w>
+<w>much</w>
+<w>to</w>
+<w>say</w>
+<media start="2146.4780" end="2149.3130" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Look</w>
+<w>lawyers</w>
+<w>aren't</w>
+<w>infallible</w>
+<w>you</w>
+<w>know</w>
+<media start="2149.3970" end="2151.1060" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>He</w>
+<w>was</w>
+<w>court</w>
+<w>appointed</w>
+<media start="2151.1910" end="2153.0250" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>What's</w>
+<w>that</w>
+<w>supposed</w>
+<w>to</w>
+<w>mean</w>
+<media start="2153.1090" end="2156.3610" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>It</w>
+<w>could</w>
+<w>mean</w>
+<w>a</w>
+<w>lot</w>
+<w>of</w>
+<w>things</w>
+<w>It</w>
+<w>could</w>
+<w>mean</w>
+<w>he</w>
+<w>didn't</w>
+<w>want</w>
+<w>the</w>
+<w>case</w>
+<w>or</w>
+<w>he</w>
+<w>resented</w>
+<w>being</w>
+<w>appointed</w>
+<media start="2156.4460" end="2158.2800" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>It's</w>
+<w>the</w>
+<w>kind</w>
+<w>of</w>
+<w>case</w>
+<w>that</w>
+<w>brings</w>
+<w>him</w>
+<w>nothing</w>
+<media start="2158.3640" end="2161.3250" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>no</w>
+<w>money</w>
+<w>no</w>
+<w>glory</w>
+<w>not</w>
+<w>even</w>
+<w>much</w>
+<w>chance</w>
+<w>of</w>
+<w>winning</w>
+<media start="2161.4090" end="2164.3280" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>That's</w>
+<w>not</w>
+<w>a</w>
+<w>very</w>
+<w>promising</w>
+<w>situation</w>
+<w>for</w>
+<w>a</w>
+<w>young</w>
+<w>lawyer</w>
+<media start="2164.4120" end="2167.3310" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>He'd</w>
+<w>really</w>
+<w>have</w>
+<w>to</w>
+<w>believe</w>
+<w>in</w>
+<w>his</w>
+<w>client</w>
+<w>to</w>
+<w>put</w>
+<w>up</w>
+<w>any</w>
+<w>kind</w>
+<w>of</w>
+<w>a</w>
+<w>good</w>
+<w>case</w>
+<media start="2167.4150" end="2169.4160" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>and</w>
+<w>as</w>
+<w>you</w>
+<w>pointed</w>
+<w>out</w>
+<w>a</w>
+<w>minute</w>
+<w>ago</w>
+<w>obviously</w>
+<w>he</w>
+<w>didn't</w>
+<media start="2169.5010" end="2172.3360" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Of</w>
+<w>course</w>
+<w>he</w>
+<w>didn't</w>
+<w>Huh</w>
+<media start="2172.4200" end="2174.7130" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Who</w>
+<w>the</w>
+<w>heck</w>
+<w>could</w>
+<media start="2174.7970" end="2177.7160" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Except</w>
+<w>maybe</w>
+<w>some</w>
+<w>guy's</w>
+<w>mother</w>
+<w>or</w>
+<w>somebody</w>
+<w>I</w>
+<media start="2177.8000" end="2180.0520" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Ah</w>
+<w>look</w>
+<w>Will</w>
+<w>you</w>
+<w>look</w>
+<w>at</w>
+<w>the</w>
+<w>time</w>
+<w>huh</w>
+<media start="2180.1360" end="2182.6790" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>Come</w>
+<w>on</w>
+<w>For</w>
+<w>crying</w>
+<w>out</w>
+<w>Pardon</w>
+<w>me</w>
+<media start="2182.7640" end="2185.0980" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>I</w>
+<w>have</w>
+<w>made</w>
+<w>some</w>
+<w>notes</w>
+<w>here</w>
+<w>Notes</w>
+<media start="2185.1830" end="2187.8090" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>and</w>
+<w>I</w>
+<w>would</w>
+<w>like</w>
+<w>to</w>
+<w>please</w>
+<w>to</w>
+<w>say</w>
+<w>something</w>
+<media start="2190.2300" end="2194.6500" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>And</w>
+<w>uh</w>
+<w>it</w>
+<w>seems</w>
+<w>to</w>
+<w>me</w>
+<w>that</w>
+<w>this</w>
+<w>man</w>
+<w>has</w>
+<w>some</w>
+<w>very</w>
+<w>good</w>
+<w>points</w>
+<w>to</w>
+<w>make</w>
+<media start="2194.7340" end="2199.3630" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>From</w>
+<w>what</w>
+<w>was</w>
+<w>presented</w>
+<w>at</w>
+<w>the</w>
+<w>trial</w>
+<w>the</w>
+<w>boy</w>
+<w>looks</w>
+<w>guilty</w>
+<w>on</w>
+<w>the</w>
+<w>surface</w>
+<media start="2199.4470" end="2203.5340" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>But</w>
+<w>maybe</w>
+<w>if</w>
+<w>we</w>
+<w>go</w>
+<w>deeper</w>
+<media start="2203.5340" end="2203.5950" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Oh</w>
+<w>come</w>
+<w>on</w>
+<w>will</w>
+<w>ya</w>
+<media start="2203.6180" end="2205.9110" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>There</w>
+<w>is</w>
+<w>a</w>
+<w>question</w>
+<w>I</w>
+<w>would</w>
+<w>like</w>
+<w>to</w>
+<w>ask</w>
+<media start="2205.9950" end="2209.2890" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>Let</w>
+<w>us</w>
+<w>assume</w>
+<w>that</w>
+<w>the</w>
+<w>boy</w>
+<w>really</w>
+<w>did</w>
+<w>commit</w>
+<w>the</w>
+<w>murder</w>
+<media start="2209.3740" end="2212.7090" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>Now</w>
+<w>this</w>
+<w>happened</w>
+<w>at</w>
+<w>minutes</w>
+<w>after</w>
+<media start="2212.7940" end="2215.2540" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>Now</w>
+<w>how</w>
+<w>was</w>
+<w>he</w>
+<w>caught</w>
+<w>by</w>
+<w>the</w>
+<w>police</w>
+<media start="2215.3380" end="2219.8410" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>He</w>
+<w>came</w>
+<w>back</w>
+<w>home</w>
+<w>uh</w>
+<w>at</w>
+<w>or</w>
+<w>so</w>
+<media start="2219.9260" end="2223.6790" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>and</w>
+<w>he</w>
+<w>was</w>
+<w>captured</w>
+<w>by</w>
+<w>two</w>
+<w>detectives</w>
+<w>in</w>
+<w>the</w>
+<w>hallway</w>
+<w>of</w>
+<w>his</w>
+<w>house</w>
+<media start="2223.7630" end="2228.3500" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>Now</w>
+<w>my</w>
+<w>question</w>
+<w>is</w>
+<w>if</w>
+<w>he</w>
+<w>really</w>
+<w>had</w>
+<w>killed</w>
+<w>his</w>
+<w>father</w>
+<media start="2228.4340" end="2231.6450" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>why</w>
+<w>would</w>
+<w>he</w>
+<w>come</w>
+<w>back</w>
+<w>home</w>
+<w>three</w>
+<w>hours</w>
+<w>later</w>
+<media start="2231.7290" end="2234.6060" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>Wouldn't</w>
+<w>he</w>
+<w>be</w>
+<w>afraid</w>
+<w>of</w>
+<w>being</w>
+<w>caught</w>
+<media start="2234.6910" end="2236.4410" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>He</w>
+<w>came</w>
+<w>home</w>
+<w>to</w>
+<w>get</w>
+<w>his</w>
+<w>knife</w>
+<media start="2236.5260" end="2239.0690" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>It's</w>
+<w>not</w>
+<w>nice</w>
+<w>to</w>
+<w>go</w>
+<w>around</w>
+<w>leaving</w>
+<w>knives</w>
+<w>sticking</w>
+<w>in</w>
+<w>people's</w>
+<w>chests</w>
+<media start="2239.1530" end="2241.9050" unit="s"/>
+</u>
+
+<u who="Juror 7" uID="#7">
+<w>Yeah</w>
+<w>especially</w>
+<w>relatives</w>
+<media start="2241.9900" end="2244.2410" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>I</w>
+<w>don't</w>
+<w>see</w>
+<w>anything</w>
+<w>funny</w>
+<w>about</w>
+<w>it</w>
+<media start="2244.3250" end="2247.8690" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>The</w>
+<w>boy</w>
+<w>knew</w>
+<w>the</w>
+<w>knife</w>
+<w>could</w>
+<w>be</w>
+<w>identified</w>
+<w>as</w>
+<w>the</w>
+<w>one</w>
+<w>he</w>
+<w>had</w>
+<w>just</w>
+<w>bought</w>
+<media start="2247.9540" end="2250.1220" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>He</w>
+<w>had</w>
+<w>to</w>
+<w>get</w>
+<w>it</w>
+<w>before</w>
+<w>the</w>
+<w>police</w>
+<w>did</w>
+<media start="2250.2060" end="2254.6680" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>But</w>
+<w>if</w>
+<w>he</w>
+<w>knew</w>
+<w>the</w>
+<w>knife</w>
+<w>could</w>
+<w>be</w>
+<w>identified</w>
+<w>why</w>
+<w>did</w>
+<w>he</w>
+<w>leave</w>
+<w>it</w>
+<w>there</w>
+<w>in</w>
+<w>the</w>
+<w>first</w>
+<w>place</w>
+<media start="2255.2110" end="2258.0880" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>Well</w>
+<w>I</w>
+<w>think</w>
+<w>we</w>
+<w>can</w>
+<w>assume</w>
+<w>the</w>
+<w>boy</w>
+<w>ran</w>
+<w>out</w>
+<w>in</w>
+<w>a</w>
+<w>state</w>
+<w>of</w>
+<w>panic</w>
+<media start="2258.1720" end="2260.5490" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>after</w>
+<w>having</w>
+<w>just</w>
+<w>killed</w>
+<w>his</w>
+<w>father</w>
+<media start="2260.6330" end="2263.5940" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>When</w>
+<w>he</w>
+<w>finally</w>
+<w>calmed</w>
+<w>down</w>
+<w>he</w>
+<w>realized</w>
+<w>he</w>
+<w>had</w>
+<w>left</w>
+<w>his</w>
+<w>knife</w>
+<w>there</w>
+<media start="2263.6780" end="2266.5970" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>Ah</w>
+<w>This</w>
+<w>then</w>
+<w>depends</w>
+<w>on</w>
+<w>your</w>
+<w>definition</w>
+<w>of</w>
+<w>panic</w>
+<media start="2266.6810" end="2269.0570" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>He</w>
+<w>would</w>
+<w>have</w>
+<w>had</w>
+<w>to</w>
+<w>be</w>
+<w>calm</w>
+<w>enough</w>
+<w>to</w>
+<w>see</w>
+<w>to</w>
+<w>it</w>
+<media start="2269.1420" end="2271.7270" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>that</w>
+<w>there</w>
+<w>were</w>
+<w>no</w>
+<w>fingerprints</w>
+<w>left</w>
+<w>on</w>
+<w>the</w>
+<w>knife</w>
+<media start="2271.8110" end="2275.8560" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>Now</w>
+<w>where</w>
+<w>did</w>
+<w>this</w>
+<w>panic</w>
+<w>start</w>
+<w>and</w>
+<w>where</w>
+<w>did</w>
+<w>it</w>
+<w>end</w>
+<media start="2275.9400" end="2278.3170" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>Look</w>
+<w>you</w>
+<w>voted</w>
+<w>guilty</w>
+<w>What</w>
+<w>side</w>
+<w>are</w>
+<w>ya</w>
+<w>on</w>
+<media start="2278.4010" end="2281.9450" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>I</w>
+<w>don't</w>
+<w>believe</w>
+<w>I</w>
+<w>have</w>
+<w>to</w>
+<w>be</w>
+<w>loyal</w>
+<w>to</w>
+<w>one</w>
+<w>side</w>
+<w>or</w>
+<w>the</w>
+<w>other</w>
+<media start="2282.0300" end="2283.8220" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>I'm</w>
+<w>simply</w>
+<w>asking</w>
+<w>questions</w>
+<media start="2283.9060" end="2286.9080" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Well</w>
+<w>this</w>
+<w>is</w>
+<w>just</w>
+<w>off</w>
+<w>the</w>
+<w>top</w>
+<w>of</w>
+<w>my</w>
+<w>head</w>
+<w>but</w>
+<w>uh</w>
+<media start="2286.9930" end="2289.4940" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>well</w>
+<w>if</w>
+<w>I</w>
+<w>were</w>
+<w>the</w>
+<w>boy</w>
+<w>and</w>
+<w>I'd</w>
+<w>done</w>
+<w>the</w>
+<w>stabbing</w>
+<w>and</w>
+<w>everything</w>
+<media start="2289.5790" end="2291.7050" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>I'd</w>
+<w>take</w>
+<w>a</w>
+<w>chance</w>
+<w>and</w>
+<w>go</w>
+<w>back</w>
+<w>for</w>
+<w>the</w>
+<w>knife</w>
+<media start="2291.7890" end="2294.2910" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>I'll</w>
+<w>bet</w>
+<w>he</w>
+<w>figured</w>
+<w>that</w>
+<w>nobody</w>
+<w>had</w>
+<w>seen</w>
+<w>him</w>
+<w>running</w>
+<w>out</w>
+<media start="2294.3750" end="2296.8770" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>and</w>
+<w>that</w>
+<w>the</w>
+<w>body</w>
+<w>wouldn't</w>
+<w>be</w>
+<w>discovered</w>
+<w>till</w>
+<w>the</w>
+<w>next</w>
+<w>day</w>
+<media start="2296.9610" end="2299.0040" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>Well</w>
+<w>after</w>
+<w>all</w>
+<w>it</w>
+<w>was</w>
+<w>the</w>
+<w>middle</w>
+<w>of</w>
+<w>the</w>
+<w>night</w>
+<media start="2299.0880" end="2301.5900" unit="s"/>
+</u>
+
+<u who="Juror 12" uID="#12">
+<w>I'll</w>
+<w>bet</w>
+<w>he'd</w>
+<w>figured</w>
+<w>nobody</w>
+<w>would</w>
+<w>find</w>
+<w>the</w>
+<w>body</w>
+<w>till</w>
+<w>the</w>
+<w>next</w>
+<w>day</w>
+<media start="2301.6740" end="2303.6750" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>Pardon</w>
+<w>This</w>
+<w>is</w>
+<w>my</w>
+<w>whole</w>
+<w>point</w>
+<media start="2303.7600" end="2307.4710" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>The</w>
+<w>woman</w>
+<w>across</w>
+<w>the</w>
+<w>street</w>
+<w>testified</w>
+<w>that</w>
+<w>the</w>
+<w>moment</w>
+<w>after</w>
+<w>she</w>
+<w>saw</w>
+<w>the</w>
+<w>killing</w>
+<media start="2307.5550" end="2310.1400" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>that</w>
+<w>is</w>
+<w>a</w>
+<w>moment</w>
+<w>after</w>
+<w>the</w>
+<w>train</w>
+<w>went</w>
+<w>by</w>
+<media start="2310.2240" end="2313.2260" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>she</w>
+<w>screamed</w>
+<w>and</w>
+<w>then</w>
+<w>went</w>
+<w>to</w>
+<w>telephone</w>
+<w>the</w>
+<w>police</w>
+<media start="2313.3110" end="2316.6880" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>Now</w>
+<w>the</w>
+<w>boy</w>
+<w>certainly</w>
+<w>must</w>
+<w>have</w>
+<w>heard</w>
+<w>the</w>
+<w>scream</w>
+<media start="2316.7730" end="2320.2750" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>so</w>
+<w>he</w>
+<w>knew</w>
+<w>that</w>
+<w>somebody</w>
+<w>saw</w>
+<w>something</w>
+<media start="2320.3600" end="2323.1530" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>I</w>
+<w>just</w>
+<w>don't</w>
+<w>think</w>
+<w>that</w>
+<w>he</w>
+<w>would</w>
+<w>have</w>
+<w>gone</w>
+<w>back</w>
+<media start="2323.2370" end="2325.9890" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>Two</w>
+<w>things</w>
+<w>One</w>
+<w>in</w>
+<w>his</w>
+<w>state</w>
+<w>of</w>
+<w>panic</w>
+<w>he</w>
+<w>may</w>
+<w>not</w>
+<w>have</w>
+<w>heard</w>
+<w>the</w>
+<w>scream</w>
+<media start="2326.0740" end="2327.7410" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>Perhaps</w>
+<w>it</w>
+<w>wasn't</w>
+<w>very</w>
+<w>loud</w>
+<media start="2327.8250" end="2331.2030" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>Two</w>
+<w>if</w>
+<w>he</w>
+<w>did</w>
+<w>hear</w>
+<w>it</w>
+<w>he</w>
+<w>may</w>
+<w>not</w>
+<w>have</w>
+<w>connected</w>
+<w>it</w>
+<w>with</w>
+<w>his</w>
+<w>own</w>
+<w>act</w>
+<media start="2331.2870" end="2334.3310" unit="s"/>
+</u>
+
+<u who="Juror 4" uID="#4">
+<w>Remember</w>
+<w>he</w>
+<w>lived</w>
+<w>in</w>
+<w>a</w>
+<w>neighborhood</w>
+<w>where</w>
+<w>screams</w>
+<w>were</w>
+<w>fairly</w>
+<w>commonplace</w>
+<media start="2334.4150" end="2336.8750" unit="s"/>
+</u>
+
+<u who="Juror 3" uID="#3">
+<w>There's</w>
+<w>your</w>
+<w>answer</w>
+<media start="2336.9590" end="2339.8360" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Maybe</w>
+<w>maybe</w>
+<w>the</w>
+<w>boy</w>
+<w>did</w>
+<w>kill</w>
+<w>his</w>
+<w>father</w>
+<w>didn't</w>
+<w>hear</w>
+<w>the</w>
+<w>scream</w>
+<media start="2339.9210" end="2343.6320" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>did</w>
+<w>run</w>
+<w>out</w>
+<w>in</w>
+<w>a</w>
+<w>panic</w>
+<w>did</w>
+<w>calm</w>
+<w>down</w>
+<w>three</w>
+<w>hours</w>
+<w>later</w>
+<media start="2343.7160" end="2346.3430" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>and</w>
+<w>come</w>
+<w>back</w>
+<w>to</w>
+<w>get</w>
+<w>the</w>
+<w>knife</w>
+<w>risking</w>
+<w>being</w>
+<w>caught</w>
+<w>by</w>
+<w>the</w>
+<w>police</w>
+<media start="2346.4270" end="2349.3460" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>Maybe</w>
+<w>all</w>
+<w>of</w>
+<w>those</w>
+<w>things</w>
+<w>happened</w>
+<w>but</w>
+<w>maybe</w>
+<w>they</w>
+<w>didn't</w>
+<media start="2349.4300" end="2352.1820" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>think</w>
+<w>there's</w>
+<w>enough</w>
+<w>doubt</w>
+<w>that</w>
+<w>we</w>
+<w>can</w>
+<w>wonder</w>
+<w>whether</w>
+<w>he</w>
+<w>was</w>
+<w>there</w>
+<w>at</w>
+<w>all</w>
+<media start="2352.2660" end="2353.9340" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>during</w>
+<w>the</w>
+<w>time</w>
+<w>the</w>
+<w>killing</w>
+<w>took</w>
+<w>place</w>
+<media start="2354.0180" end="2355.7690" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>What</w>
+<w>do</w>
+<w>you</w>
+<w>mean</w>
+<w>doubt</w>
+<w>What</w>
+<w>are</w>
+<w>you</w>
+<w>talking</w>
+<w>about</w>
+<media start="2355.8530" end="2357.5620" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Didn't</w>
+<w>the</w>
+<w>old</w>
+<w>man</w>
+<w>see</w>
+<w>him</w>
+<w>running</w>
+<w>out</w>
+<w>of</w>
+<w>the</w>
+<w>house</w>
+<media start="2357.6470" end="2359.4390" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>He's</w>
+<w>twisting</w>
+<w>the</w>
+<w>facts</w>
+<w>I'm</w>
+<w>telling</w>
+<w>you</w>
+<media start="2359.5240" end="2362.8590" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Did</w>
+<w>or</w>
+<w>didn't</w>
+<w>the</w>
+<w>old</w>
+<w>man</w>
+<w>see</w>
+<w>the</w>
+<w>kid</w>
+<w>running</w>
+<w>out</w>
+<w>of</w>
+<w>the</w>
+<w>house</w>
+<w>at</w>
+<media start="2362.9440" end="2364.8610" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Well</w>
+<w>did</w>
+<w>or</w>
+<w>didn't</w>
+<w>he</w>
+<media start="2364.9460" end="2368.1560" unit="s"/>
+</u>
+
+<u who="Juror 11" uID="#11">
+<w>He</w>
+<w>says</w>
+<w>he</w>
+<w>did</w>
+<media start="2368.1560" end="2368.2250" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Says</w>
+<w>he</w>
+<w>did</w>
+<w>Boy!</w>
+<w>How</w>
+<w>do</w>
+<w>you</w>
+<w>like</w>
+<w>that</w>
+<media start="2368.2410" end="2371.2010" unit="s"/>
+</u>
+
+<u who="Juror 5" uID="#5">
+<w>Now</w>
+<w>look</w>
+<w>witnesses</w>
+<w>can</w>
+<w>make</w>
+<w>mistakes</w>
+<media start="2371.2010" end="2371.2450" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Sure</w>
+<w>when</w>
+<w>you</w>
+<w>want</w>
+<w>them</w>
+<w>to</w>
+<w>they</w>
+<w>do</w>
+<media start="2371.2850" end="2373.5370" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Or</w>
+<w>when</w>
+<w>he</w>
+<w>wants</w>
+<w>them</w>
+<w>to</w>
+<w>they</w>
+<w>do</w>
+<w>You</w>
+<w>know</w>
+<w>what</w>
+<w>I</w>
+<w>mean</w>
+<media start="2373.6210" end="2375.4550" unit="s"/>
+</u>
+
+<u who="Foreman" uID="#0">
+<w>Keep</w>
+<w>the</w>
+<w>yelling</w>
+<w>down!</w>
+<media start="2375.5400" end="2377.2490" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Maybe</w>
+<w>what</w>
+<w>we</w>
+<w>need</w>
+<w>is</w>
+<w>a</w>
+<w>little</w>
+<w>yelling</w>
+<w>in</w>
+<w>here</w>
+<media start="2377.3330" end="2379.0420" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>These</w>
+<w>guys</w>
+<w>keep</w>
+<w>going</w>
+<w>off</w>
+<w>every</w>
+<w>which</w>
+<w>way</w>
+<media start="2379.1270" end="2381.0440" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>Did</w>
+<w>hear</w>
+<w>the</w>
+<w>scream</w>
+<w>Didn't</w>
+<w>hear</w>
+<w>the</w>
+<w>scream</w>
+<media start="2381.1290" end="2384.2970" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>What</w>
+<w>difference</w>
+<w>does</w>
+<w>it</w>
+<w>make</w>
+<w>You</w>
+<w>people</w>
+<w>are</w>
+<w>talking</w>
+<w>only</w>
+<w>about</w>
+<w>the</w>
+<w>little</w>
+<w>details</w>
+<media start="2384.3820" end="2386.8830" unit="s"/>
+</u>
+
+<u who="Juror 10" uID="#10">
+<w>You're</w>
+<w>forgetting</w>
+<w>the</w>
+<w>important</w>
+<w>stuff</w>
+<w>I</w>
+<w>mean</w>
+<w>all</w>
+<w>of</w>
+<w>a</w>
+<w>sudden</w>
+<w>everybody</w>
+<w>here</w>
+<media start="2386.9680" end="2389.3440" unit="s"/>
+</u>
+
+<u who="Juror 8" uID="#8">
+<w>I</w>
+<w>want</w>
+<w>to</w>
+<w>call</w>
+<w>for</w>
+<w>another</w>
+<w>vote</w>
+<w>I'm</w>
+<w>talking</w>
+<w>here!</w>
+<media start="2386.9680" end="2389.3440" unit="s"/>
+</u>
+</CHAT>
