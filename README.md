@@ -1,103 +1,139 @@
 # BADMM_TPP
-[AAAI2025] The official implementation of "A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Point Processes"
 
-## Instructions
+[![AAAI2025](https://img.shields.io/badge/AAAI-2025-blue)](https://aaai.org/)
+![Python](https://img.shields.io/badge/python-3.8.1-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-1.13.1-orange.svg)
 
-Here are the instructions to use the code base.
+> **Official Implementation of AAAI 2025 Paper:** "A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Point Processes"
 
-## Dependencies
+## 📖 Overview
 
-This code is written in python. To use it you will need:
+This repository contains the official implementation of our AAAI 2025 paper, introducing a novel **BADMM (Bregman Alternating Direction Method of Multipliers)** module for temporal point processes (TPP). Our plug-and-play module enhances existing TPP models by effectively inferring event branches through advanced regularization techniques.
 
-* PyTorch == 1.13.1
-* Python ==  3.8.1
+![Architecture Overview](image/README/image1.png)
 
-## Dataset 
+![Performance Results](image/README/image2.png)
 
-The datasets are available on this [Google drive] (https://drive.google.com/drive/folders/0BwqmV0EcoUc8UklIR1BKV25YR1U?resourcekey=0-OrlU87jyc1m-dVMmY5aC4w). To run the model, you should download them to the parent directory of the source code, with the folder name `data`. For SAHP, to make the data format consistent, it is necessary to run the script [convert_realdata_syntheform.py](utils/convert_realdata_syntheform.py) first. 
+## 🚀 Quick Start
 
-The five datasets are listed below:
+### Prerequisites
 
-- Conttime
-- Retweet
-- StackOverflow
-- Amazon
-- Taobao
+- **Python**: 3.8.1
+- **PyTorch**: 1.13.1
 
-Also,we use the famous film named 12 Angry Men to further verify the  practicality of our module.
-
-### Step 1. Quick Start
-
-- Get code
-
-```
-git clone 
-```
-
-- Build environmet
+### Installation
 
 ```bash
-conda create -n BADMM python=3.8
-conda activate BADMM
+# Clone the repository
+git clone <repository-url>
+cd BADMM_TPP
+
+# Create and activate conda environment
+conda create -n badmm_tpp python=3.8.1
+conda activate badmm_tpp
+
+# Install dependencies
+pip install torch==1.13.1
 ```
 
-### Step 2. Prepare datasets 
+## 📊 Datasets
 
-The `data` directory contains the dataset to use.
+Download the datasets from [Google Drive](https://drive.google.com/drive/folders/0BwqmV0EcoUc8UklIR1BKV25YR1U?resourcekey=0-OrlU87jyc1m-dVMmY5aC4w) and place them in the parent directory as `data/`.
 
-### Step 3. Train the model
+### Available Datasets
 
-We integrate our BADMM module into existing TPPs and evaluate its impact accordingly. We consider the classic Hawkes process (**HP** in (Zhou, Zha, and Song 2013b)) and two Transformer-based TPPs (**THP** in (Zuo et al. 2020) and **SAHP** in (Zhang et al. 2020)) .
+- **Conttime**: Continuous-time event sequences
+- **Retweet**: Social media retweet patterns
+- **StackOverflow**: Question-answer interactions
+- **Amazon**: E-commerce transaction data
+- **Taobao**: Online shopping behavior data
 
-For **HP**,  if you want to use the BADMM_nuclear module with the `data/retweet` data file, you can run the script like this:
+### Special Dataset: 12 Angry Men
+
+We also include the famous film *"12 Angry Men"* to demonstrate the practical applicability of our module in real-world temporal analysis scenarios.
+
+
+
+## 🏃‍♂️ Training
+
+Our BADMM module integrates seamlessly with existing TPP architectures. We evaluate its performance on:
+
+- **HP** (Hawkes Process) - Classic point process model [(Zhou et al., 2013b)](https://arxiv.org/abs/1304.5991)
+- **THP** (Transformer Hawkes Process) - Transformer-based TPP [(Zuo et al., 2020)](https://arxiv.org/abs/2002.09291)
+- **SAHP** (Self-Attentive Hawkes Process) - Attention mechanism TPP [(Zhang et al., 2020)](https://arxiv.org/abs/1907.07561)
+
+### HP Model Training
 
 ```bash
 cd HP
+
+# BADMM with nuclear norm regularization
 python main.py -data ../data/retweet/ -mode BADMM_nuclear -alpha alpha -lambd lambd
-```
 
-If you wish to change the module or dataset, simply alter the corresponding parameter values. For instance, to use the HP_BADMM12 module or the EM module with the `data/retweet` dataset, run:
-
-```bash
-cd HP
+# BADMM with ℓ₁₂ regularization
 python main.py -data ../data/retweet/ -mode BADMM_12 -alpha alpha -lambd lambd
-python main.py -data ../data/retweet/ -mode EM 
-```
 
-Additionally, if you want to use the BADMM module with the film **12 Angry Men** dataset, you can run:
+# Expectation-Maximization baseline
+python main.py -data ../data/retweet/ -mode EM
 
-```bash
-cd HP
+# 12 Angry Men dataset
 python main_12_angry_men.py -mode BADMM_nuclear
 ```
 
-For **THP** and **SAHP**,   you can switch between the modules: softmax, sinkhorn, BADMM12, and BADMM_nuclear. To do so, you can run the script like this:
+### THP & SAHP Model Training
 
 ```bash
+# THP Model
 cd THP
-python main.py -data <your data path> -mode badmm -n_it n_it -lambda_ lambda_ -alpha alpha
-python main.py -data <your data path> -mode badmm12 -n_it n_it -lambda_ lambda_ -alpha alpha
-python main.py -data <your data path> -mode sinkhorn  -n_it n_it
-python main.py -data <your data path> -mode softmax
-```
+python main.py -data <your data path>  -mode badmm -n_it n_it -lambda_ lambda_ -alpha alpha
+python main.py -data <your data path>  -mode badmm12 -n_it n_it -lambda_ lambda_ -alpha alpha
+python main.py -data <your data path>  -mode sinkhorn -n_it n_it
+python main.py -data <your data path>  -mode softmax
 
-```bash
+# SAHP Model
 cd SAHP
-python main.py -data <your data name> -mode badmm -n_it n_it -lambda_ lambda_ -alpha alpha  
-python main.py -data <your data name> -mode badmm12 -n_it n_it
-python main.py -data <your data name> -mode sinkhorn  -n_it n_it
-python main.py -data <your data name> -mode softmax
+python main.py -data <your data path>  -mode badmm -n_it n_it -lambda_ lambda_ -alpha alpha
+python main.py -data <your data path>  -mode badmm12 -n_it n_it -lambda_ lambda_ -alpha alpha
+python main.py -data <your data path>  -mode sinkhorn -n_it n_it
+python main.py -data <your data path>  -mode softmax
 ```
 
-## Parameters
+## ⚙️ Parameters
 
-```n_it``` Specifies the number of iterations for the Bregman ADMM or Sinkhorn-scaling algorithm. The default value is set to 2.
+| Parameter | Description | Default | Range/Options |
+|-----------|-------------|---------|---------------|
+| `n_it` | Number of Bregman ADMM/Sinkhorn iterations | 2 | ≥ 1 |
+| `alpha` | Regularization weight | - | (0, 1) |
+| `lambda_` | Regularization strength | - | {0.01, 0.1, 1, 10, 100} |
+| `mode` | Inference module | - | badmm, badmm12, sinkhorn, softmax |
 
-```alpha``` Represents the weight of the regularization term. The value should be within the range (0,1).
+## 📈 Performance
 
-```lambda```  Indicates the weight of the regularization term. Acceptable values are {0.01,0.1,1,10,100}.
+Our BADMM module demonstrates superior performance across multiple TPP architectures and datasets. Key advantages include:
 
-###  
+- **Plug-and-Play Integration**: Easy integration with existing TPP models
+- **Enhanced Branch Inference**: Better identification of event dependencies
+- **Robust Regularization**: Multiple regularization options for different scenarios
+- **Computational Efficiency**: Optimized ADMM iterations
+
+## 🔬 Citation
+
+If you find this work useful, please cite our paper:
+
+```bibtex
+@inproceedings{wang2025plug,
+  title={A Plug-and-Play Bregman ADMM Module for Inferring Event Branches in Temporal Point Processes},
+  author={Wang, Qingmei and Wu, Yuxin and Long, Yujie and Huang, Jing and Ran, Fengyuan and Su, Bing and Xu, Hongteng},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={20},
+  pages={21216--21224},
+  year={2025}
+}
+```
 
 
+## 🤝 Contributing
+
+We welcome contributions! Please feel free to submit issues and pull requests.
 
